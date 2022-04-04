@@ -1,0 +1,5297 @@
+{
+  "timelineObjects": [{
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 67.43156
+      },
+      "duration": {
+        "startTimestamp": "2019-02-07T16:25:48.219Z",
+        "endTimestamp": "2019-02-09T14:25:25.856Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408439420,
+      "centerLngE7": 142481310,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408432215,
+        "longitudeE7": 142489647,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 12.833871
+      }, {
+        "latitudeE7": 408439026,
+        "longitudeE7": 142481833,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 6.894278
+      }, {
+        "latitudeE7": 408451640,
+        "longitudeE7": 142483758,
+        "placeId": "ChIJw-5h-FoIOxMRf3nJHAGdJTM",
+        "address": "Via Pignasecca, 16\n80134 Napoli NA\nItalia",
+        "name": "Pescheria Stella Marina 3",
+        "locationConfidence": 3.7008228
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.7805663,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.5894739
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 58,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408436570,
+        "longitudeE7": 142490111,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408369160,
+        "longitudeE7": 142486082,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-09T14:25:25.856Z",
+        "endTimestamp": "2019-02-09T14:48:10.444Z"
+      },
+      "distance": 1165,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 84.73509507770991
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 10.267875195970882
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 2.60462468137527
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408436584,
+          "lngE7": 142490129
+        }, {
+          "latE7": 408420906,
+          "lngE7": 142488117
+        }, {
+          "latE7": 408369331,
+          "lngE7": 142486619
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 763.829710475659
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408416831,
+          "lngE7": 142488091,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-09T14:27:32.964Z"
+        }]
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408369160,
+        "longitudeE7": 142486082,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408732471,
+        "longitudeE7": 142207264,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-09T14:48:10.444Z",
+        "endTimestamp": "2019-02-09T15:14:19.535Z"
+      },
+      "distance": 6204,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 58.1284235143339
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 37.893488962688856
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 1.9423857258617137
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408369331,
+          "lngE7": 142486619
+        }, {
+          "latE7": 408326110,
+          "lngE7": 142432765
+        }, {
+          "latE7": 408515319,
+          "lngE7": 142420969
+        }, {
+          "latE7": 408510055,
+          "lngE7": 142354249
+        }, {
+          "latE7": 408601531,
+          "lngE7": 142253103
+        }, {
+          "latE7": 408686943,
+          "lngE7": 142237491
+        }, {
+          "latE7": 408733520,
+          "lngE7": 142206716
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 12522.446629097914
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408515408,
+          "lngE7": 142420994,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-09T14:58:14.050Z"
+        }, {
+          "latE7": 408517117,
+          "lngE7": 142346974,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-09T15:00:14.860Z"
+        }, {
+          "latE7": 408601335,
+          "lngE7": 142252692,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-09T15:08:16.575Z"
+        }, {
+          "latE7": 408664724,
+          "lngE7": 142264447,
+          "accuracyMeters": 68,
+          "timestamp": "2019-02-09T15:09:57.539Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 408732471,
+          "longitudeE7": 142207264,
+          "accuracyMetres": 37
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-09T15:18:43.098Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408694544,
+        "longitudeE7": 142161720,
+        "placeId": "ChIJz2w_paMIOxMR3ya9EH41Wj0",
+        "address": "Via Sergio Pansini, 5\n80131 Napoli NA\nItalia",
+        "name": "Federico II University Hospital",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 94.21429,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-02-09T15:14:19.535Z",
+        "endTimestamp": "2019-02-09T18:03:45.342Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "childVisits": [{
+        "location": {
+          "latitudeE7": 408454920,
+          "longitudeE7": 142578058,
+          "placeId": "ChIJt--LgUYIOxMRxHacgvVTeNo",
+          "address": "Corso Umberto I, 40\n80138 Napoli NA\nItalia",
+          "name": "University of Naples Federico II",
+          "sourceInfo": {
+            "deviceTag": -895525288
+          },
+          "locationConfidence": 88.76331,
+          "isCurrentLocation": true
+        },
+        "duration": {
+          "startTimestamp": "2019-02-09T15:14:19.535Z",
+          "endTimestamp": "2019-02-09T18:03:45.342Z"
+        },
+        "placeConfidence": "MEDIUM_CONFIDENCE",
+        "centerLatE7": 408728855,
+        "centerLngE7": 142202800,
+        "visitConfidence": 96,
+        "otherCandidateLocations": [{
+          "latitudeE7": 408746732,
+          "longitudeE7": 142215791,
+          "placeId": "ChIJ6ePwcZ4IOxMRXFa0WybEsvU",
+          "address": "Piazzetta Ponte Caracciolo\n80145 Napoli NA\nItalia",
+          "name": "Bar tabacchi Papallo",
+          "locationConfidence": 0.8470401
+        }, {
+          "latitudeE7": 408749384,
+          "longitudeE7": 142189366,
+          "placeId": "ChIJMx2R1hgGOxMRhrNUMG2tTEs",
+          "locationConfidence": 0.542583
+        }, {
+          "latitudeE7": 408749142,
+          "longitudeE7": 142213325,
+          "placeId": "ChIJO5y9bZ4IOxMRos-h1lYgnfM",
+          "address": "Piazzetta Ponte Caracciolo\n80131 Napoli NA\nItalia",
+          "name": "Passaro Immobiliare",
+          "locationConfidence": 0.46796536
+        }, {
+          "latitudeE7": 408747243,
+          "longitudeE7": 142215409,
+          "placeId": "ChIJCWBYcZ4IOxMRx7QU-Vga7aA",
+          "locationConfidence": 0.40379357
+        }],
+        "editConfirmationStatus": "NOT_CONFIRMED",
+        "locationConfidence": 75,
+        "placeVisitType": "SINGLE_PLACE"
+      }],
+      "centerLatE7": 408728855,
+      "centerLngE7": 142202800,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408746732,
+        "longitudeE7": 142215791,
+        "placeId": "ChIJ6ePwcZ4IOxMRXFa0WybEsvU",
+        "address": "Piazzetta Ponte Caracciolo\n80145 Napoli NA\nItalia",
+        "name": "Bar tabacchi Papallo",
+        "locationConfidence": 0.899057
+      }, {
+        "latitudeE7": 408749384,
+        "longitudeE7": 142189366,
+        "placeId": "ChIJMx2R1hgGOxMRhrNUMG2tTEs",
+        "locationConfidence": 0.5759031
+      }, {
+        "latitudeE7": 408749142,
+        "longitudeE7": 142213325,
+        "placeId": "ChIJO5y9bZ4IOxMRos-h1lYgnfM",
+        "address": "Piazzetta Ponte Caracciolo\n80131 Napoli NA\nItalia",
+        "name": "Passaro Immobiliare",
+        "locationConfidence": 0.4967032
+      }, {
+        "latitudeE7": 408747243,
+        "longitudeE7": 142215409,
+        "placeId": "ChIJCWBYcZ4IOxMRx7QU-Vga7aA",
+        "locationConfidence": 0.42859063
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408740241,
+          "lngE7": 142208278,
+          "accuracyMeters": 72,
+          "timestamp": "2019-02-09T15:16:19.932Z"
+        }, {
+          "latE7": 408731691,
+          "lngE7": 142206055,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-09T15:20:20.766Z"
+        }, {
+          "latE7": 408727041,
+          "lngE7": 142202206,
+          "accuracyMeters": 30,
+          "timestamp": "2019-02-09T16:28:49.164Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1047.7657443085043
+      },
+      "locationConfidence": 83,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408731976,
+        "longitudeE7": 142204134,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-09T18:03:45.342Z",
+        "endTimestamp": "2019-02-09T18:24:10.065Z"
+      },
+      "distance": 5662,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 75.55987431537554
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.782987580040158
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 10.30114159959768
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408733406,
+          "lngE7": 142206449
+        }, {
+          "latE7": 408708076,
+          "lngE7": 142219619
+        }, {
+          "latE7": 408524513,
+          "lngE7": 142496719
+        }, {
+          "latE7": 408510055,
+          "lngE7": 142422361
+        }, {
+          "latE7": 408438453,
+          "lngE7": 142481231
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJwb1RjZ4IOxMRxaE18vwiIyI"
+        }, {
+          "placeId": "ChIJrdMtjJ4IOxMRw962XqDfSPU"
+        }, {
+          "placeId": "ChIJh1VRiJ4IOxMRq2KND-o8NLY"
+        }, {
+          "placeId": "ChIJx7DaYJ4IOxMRD391m2z0nRg"
+        }, {
+          "placeId": "ChIJLYQxVJ4IOxMR6-WHPn8Kc6E"
+        }, {
+          "placeId": "ChIJg6FOBp8IOxMRb5c7X_H_oI4"
+        }, {
+          "placeId": "ChIJlZ2hCJ8IOxMR11R9HBKMcK8"
+        }, {
+          "placeId": "ChIJtS7MCJ8IOxMRSbcPZkXYKP4"
+        }, {
+          "placeId": "ChIJsUDkD58IOxMR_559id7KU84"
+        }, {
+          "placeId": "ChIJjYvLEJ8IOxMRc0sPxX9Kihw"
+        }, {
+          "placeId": "ChIJW28jIJ8IOxMRZVeuSCJVMKo"
+        }, {
+          "placeId": "ChIJBWbI3J4IOxMRESpzZS9GVR4"
+        }, {
+          "placeId": "ChIJ6Z8Tw54IOxMRGy_Jdw_MQrA"
+        }, {
+          "placeId": "ChIJPZvHwJ4IOxMRp6dsrP9c9iI"
+        }, {
+          "placeId": "ChIJKxCsUZkIOxMRwmNsE9yPaUU"
+        }, {
+          "placeId": "ChIJyXkjV5kIOxMRNPBPofeOGIM"
+        }, {
+          "placeId": "ChIJQQzLWJkIOxMRMSR0K9fKx-4"
+        }, {
+          "placeId": "ChIJpZoH1JsIOxMRqJQJOPp6N0Y"
+        }, {
+          "placeId": "ChIJq_Er05sIOxMRai7bpg1Y6ak"
+        }, {
+          "placeId": "ChIJB0OHL5oIOxMRK8xNFtAYMR4"
+        }, {
+          "placeId": "ChIJS-s-ApoIOxMRKUI0GAtSjF4"
+        }, {
+          "placeId": "ChIJrRi-VJcIOxMRBoTzU_Igick"
+        }, {
+          "placeId": "ChIJ7yBiU5cIOxMRXq2yvb8fjaw"
+        }, {
+          "placeId": "ChIJUUrnSZcIOxMRd6Y4slnzfrM"
+        }, {
+          "placeId": "ChIJ76dBJpcIOxMRJVWxn5tqCVk"
+        }, {
+          "placeId": "ChIJG7_Ow5YIOxMR7tBEZkKs2NM"
+        }, {
+          "placeId": "ChIJ0eoZvpYIOxMRn6jyygs7I6Y"
+        }, {
+          "placeId": "ChIJrWIZppYIOxMRm-EK4D2VrPw"
+        }, {
+          "placeId": "ChIJeaPKqZYIOxMRmLtuyTgI-Ok"
+        }, {
+          "placeId": "ChIJP-1ZAJQIOxMRsmH5sdWAUCg"
+        }, {
+          "placeId": "ChIJJ-ii_pMIOxMR2GjLV-0WR7Q"
+        }, {
+          "placeId": "ChIJOeah4pMIOxMR0PticHY1prI"
+        }, {
+          "placeId": "ChIJM7hbXpEIOxMR-mcNhkpjR3A"
+        }, {
+          "placeId": "ChIJARfZZpEIOxMREehUo0xECgk"
+        }, {
+          "placeId": "ChIJ2_r8ZJEIOxMRYQgdXtYAzKQ"
+        }, {
+          "placeId": "ChIJqafLZJEIOxMRJe5AMp7y7Hc"
+        }, {
+          "placeId": "ChIJqZGofZEIOxMRq3bgMlptXCs"
+        }, {
+          "placeId": "ChIJJ8zW1ZMIOxMR6TCiA40jP6A"
+        }, {
+          "placeId": "ChIJsyx51JMIOxMRSLLNYr-eugo"
+        }, {
+          "placeId": "ChIJe72kMpIIOxMRdfxCGnpqrGo"
+        }, {
+          "placeId": "ChIJwTMGNJIIOxMRIlT2C5jO-QQ"
+        }, {
+          "placeId": "ChIJcxRwNpIIOxMRrlVx182qwh4"
+        }, {
+          "placeId": "ChIJlzC8SZIIOxMRWT_5Ff-l3VQ"
+        }, {
+          "placeId": "ChIJEfjVTpIIOxMRGU2HPaVE9N0"
+        }, {
+          "placeId": "ChIJS4vYT5IIOxMRBZlOOmUljQY"
+        }, {
+          "placeId": "ChIJ7VKCV5IIOxMR5UJ6YU3_63U"
+        }, {
+          "placeId": "ChIJtwSO-ZIIOxMRDk8PS8piwZk"
+        }, {
+          "placeId": "ChIJdY43-pIIOxMRWQ-QXmGwTLg"
+        }, {
+          "placeId": "ChIJkTEZ-5IIOxMRRAqEe2IOeck"
+        }, {
+          "placeId": "ChIJsdT14JIIOxMRZCdCT_noDx4"
+        }, {
+          "placeId": "ChIJ9bXRK5MIOxMRAcfBd-FKuPg"
+        }, {
+          "placeId": "ChIJR8tAHu0IOxMRtC8hoGdIIkA"
+        }, {
+          "placeId": "ChIJrVh2A-0IOxMR2nQV5hzRU-8"
+        }, {
+          "placeId": "ChIJ0-MBpe0IOxMRHdZ96qDMzvc"
+        }, {
+          "placeId": "ChIJ_aKOvu0IOxMRRaMDoYiFM90"
+        }, {
+          "placeId": "ChIJV2s_6u0IOxMR5teQrDRb2w0"
+        }, {
+          "placeId": "ChIJ_5C46O0IOxMRrTnE2TTU94c"
+        }, {
+          "placeId": "ChIJa5nD4u0IOxMRMnRXAKNAnoU"
+        }, {
+          "placeId": "ChIJE7ATCO4IOxMRZRuz7OS0Hk8"
+        }, {
+          "placeId": "ChIJAeJBD-4IOxMRAX4BchGBmNQ"
+        }, {
+          "placeId": "ChIJ2aVbBe4IOxMRkRnSX_HPAWw"
+        }, {
+          "placeId": "ChIJHzNcAu4IOxMRKy0BKnHBMuY"
+        }, {
+          "placeId": "ChIJcfL6-fEIOxMRI2QD-2z4-kw"
+        }, {
+          "placeId": "ChIJKZkv9PEIOxMRf2ht1goaqX4"
+        }, {
+          "placeId": "ChIJc9L7ifEIOxMRLe81bhXIDXE"
+        }, {
+          "placeId": "ChIJadXEKfIIOxMRYvPJU-g4olQ"
+        }, {
+          "placeId": "ChIJoRlGh_EIOxMRmxbscd57W5g"
+        }, {
+          "placeId": "ChIJP-nSgPEIOxMRIxGfqa-lHF0"
+        }, {
+          "placeId": "ChIJH2z_gPEIOxMR5TgroyywUrU"
+        }, {
+          "placeId": "ChIJ75GWf_EIOxMRJk9mgHeRcqs"
+        }, {
+          "placeId": "ChIJh-IlfvEIOxMRmwk4Bk8McWM"
+        }, {
+          "placeId": "ChIJhwjT1fMIOxMRaQia5ZQNHhc"
+        }, {
+          "placeId": "ChIJP6o12vMIOxMRQQ0ada9hrT8"
+        }, {
+          "placeId": "ChIJFfdK5vMIOxMRYEA0ctEcoAQ"
+        }, {
+          "placeId": "ChIJ_ynx7_MIOxMRrUykqx4ztTo"
+        }, {
+          "placeId": "ChIJE55h8PMIOxMRXJlqZqLWetk"
+        }, {
+          "placeId": "ChIJqVtP9_MIOxMR_kRGYQWwb9w"
+        }, {
+          "placeId": "ChIJUwKN9_MIOxMRBhRWE32LHlA"
+        }, {
+          "placeId": "ChIJ_7r89_MIOxMRAT5sPRHVvmY"
+        }, {
+          "placeId": "ChIJ64JoCPQIOxMRZq7m6nvpikE"
+        }, {
+          "placeId": "ChIJ337HCPQIOxMRa5qi2HfLySQ"
+        }, {
+          "placeId": "ChIJA2SFD_QIOxMRl3UtIriNFnE"
+        }, {
+          "placeId": "ChIJqakSGvQIOxMRQUsPl53m0CQ"
+        }, {
+          "placeId": "ChIJiRIBI_QIOxMR74-EkPTuQTw"
+        }, {
+          "placeId": "ChIJUwhGL_QIOxMRdwWGp_6L67I"
+        }, {
+          "placeId": "ChIJ0dZxKfQIOxMRGcSCdTGCfBo"
+        }, {
+          "placeId": "ChIJ9ZQaKvQIOxMRCA7T6A8drAc"
+        }, {
+          "placeId": "ChIJ95rfgfYIOxMRmk7A8GJiGvM"
+        }, {
+          "placeId": "ChIJoyAugPYIOxMR2GUhEgXpm3g"
+        }, {
+          "placeId": "ChIJ5RtkgPYIOxMRik3OkEN5e-Y"
+        }, {
+          "placeId": "ChIJNYsefvYIOxMRHF71bzJgnHo"
+        }, {
+          "placeId": "ChIJFxdybvYIOxMRd35N-n3Ja7k"
+        }, {
+          "placeId": "ChIJVxGsEPYIOxMRXNDE-gupUuQ"
+        }, {
+          "placeId": "ChIJVxGsEPYIOxMRblAvyo2Dz5s"
+        }, {
+          "placeId": "ChIJVVFXGvYIOxMRnOhACOmlKtA"
+        }, {
+          "placeId": "ChIJSZ76GvYIOxMRxNUahOSXzo4"
+        }, {
+          "placeId": "ChIJTz-jCPYIOxMRMnBbteZPMTU"
+        }, {
+          "placeId": "ChIJaaLR7_UIOxMRYKWhHo4PLzs"
+        }, {
+          "placeId": "ChIJk0amjfUIOxMRr_LaOnZ3dm8"
+        }, {
+          "placeId": "ChIJuUy2hPUIOxMR764gx1265U8"
+        }, {
+          "placeId": "ChIJuUy2hPUIOxMR5L3ULy9H590"
+        }, {
+          "placeId": "ChIJLy1nePUIOxMRElvji_TpBs4"
+        }, {
+          "placeId": "ChIJ3dngePUIOxMR3c3DqAZL3r0"
+        }, {
+          "placeId": "ChIJI15KfvUIOxMRoJ0ehcEtPqQ"
+        }, {
+          "placeId": "ChIJUdcMgV8IOxMRx9hlXQ3TCRo"
+        }, {
+          "placeId": "ChIJo1XioF8IOxMRAw6WweZnhes"
+        }, {
+          "placeId": "ChIJr50Dp18IOxMRqSC5H-pa2ec"
+        }, {
+          "placeId": "ChIJjZ-zqV8IOxMRfxIajLhONuo"
+        }, {
+          "placeId": "ChIJoTC8ql8IOxMRn0SLiiNb0f0"
+        }, {
+          "placeId": "ChIJt74wVV4IOxMRt0yRh8Sqias"
+        }, {
+          "placeId": "ChIJQ-1WVF4IOxMRJQ_k9xdeL2o"
+        }, {
+          "placeId": "ChIJadJjUF4IOxMRL9XDfFX67cA"
+        }, {
+          "placeId": "ChIJfXncQ14IOxMRy1HWNo0xhPU"
+        }, {
+          "placeId": "ChIJXa6BFF4IOxMRtxcp8nOLQrw"
+        }, {
+          "placeId": "ChIJM6E1El4IOxMRinDQ9QBwXNY"
+        }, {
+          "placeId": "ChIJbUMoCV4IOxMRqdVGlB8OyFA"
+        }, {
+          "placeId": "ChIJ2zzO4l0IOxMRpJf0E5Y1Bo8"
+        }, {
+          "placeId": "ChIJYx6k410IOxMR_GN7kspkxvg"
+        }, {
+          "placeId": "ChIJC0Ks510IOxMRagV6ChPDf8w"
+        }, {
+          "placeId": "ChIJudP3wl0IOxMRBz-aOInezeQ"
+        }, {
+          "placeId": "ChIJL2cHwF0IOxMRLnjhFTmBFHA"
+        }, {
+          "placeId": "ChIJRYLHl10IOxMR58yL4EnC0Lg"
+        }, {
+          "placeId": "ChIJ53v5mF0IOxMRq-3EJPpo5W0"
+        }, {
+          "placeId": "ChIJe9oknl0IOxMRxyzJYgsFUFQ"
+        }, {
+          "placeId": "ChIJFwYXdF0IOxMRDUDH_dX06zM"
+        }, {
+          "placeId": "ChIJZWxxZV0IOxMRshsbJaRuP-I"
+        }, {
+          "placeId": "ChIJAVk3imcIOxMRNICAWaDP9c0"
+        }, {
+          "placeId": "ChIJzX0_jmcIOxMR-uT8vOPcQvw"
+        }, {
+          "placeId": "ChIJi7bgnGcIOxMRDUp4de_bxD4"
+        }, {
+          "placeId": "ChIJHZuoZ2cIOxMRbc9edxfD_5k"
+        }, {
+          "placeId": "ChIJ7xYh-F0IOxMRvPTRfwYEW5w"
+        }, {
+          "placeId": "ChIJLSSV-V0IOxMRFAt9GBm_Vn8"
+        }, {
+          "placeId": "ChIJXaWW_F0IOxMRVR21LyGL790"
+        }, {
+          "placeId": "ChIJpa0u_V0IOxMRglYXKQ3ahz0"
+        }, {
+          "placeId": "ChIJbUMoCV4IOxMRqNVGlB8OyFA"
+        }, {
+          "placeId": "ChIJM6E1El4IOxMRi3DQ9QBwXNY"
+        }, {
+          "placeId": "ChIJXa6BFF4IOxMRthcp8nOLQrw"
+        }, {
+          "placeId": "ChIJfXncQ14IOxMRylHWNo0xhPU"
+        }, {
+          "placeId": "ChIJadJjUF4IOxMRLtXDfFX67cA"
+        }, {
+          "placeId": "ChIJQ-1WVF4IOxMRJA_k9xdeL2o"
+        }, {
+          "placeId": "ChIJt74wVV4IOxMRtkyRh8Sqias"
+        }, {
+          "placeId": "ChIJvwAXAF8IOxMRkMXok8itFYY"
+        }, {
+          "placeId": "ChIJxzm7A18IOxMRoEJo-Y6hbCg"
+        }, {
+          "placeId": "ChIJzfnBG18IOxMRz35OMUDRrDc"
+        }, {
+          "placeId": "ChIJH7ahIl8IOxMRuyvDN1_Whig"
+        }, {
+          "placeId": "ChIJWwxqO18IOxMROW7cmwb0bf0"
+        }, {
+          "placeId": "ChIJ_UM-MV8IOxMRekMN2t6bBMQ"
+        }, {
+          "placeId": "ChIJS8-6NF8IOxMRkPn-HKT6Sb0"
+        }, {
+          "placeId": "ChIJlxSpy1gIOxMRgnDiNwOqJ1w"
+        }, {
+          "placeId": "ChIJMQRryFgIOxMR8GvOhAKnAOs"
+        }, {
+          "placeId": "ChIJgXNGx1gIOxMRZFWY0xLsnxE"
+        }, {
+          "placeId": "ChIJCTtMwFgIOxMRlw1Tzz2YTKg"
+        }, {
+          "placeId": "ChIJ_xk36lgIOxMR_G0abqJXonY"
+        }, {
+          "placeId": "ChIJawTB7lgIOxMRj8kIXKOIv9U"
+        }, {
+          "placeId": "ChIJOSgg8FgIOxMR8ZLuYDmrNJo"
+        }, {
+          "placeId": "ChIJFfVt8FgIOxMRiOi_J15j05g"
+        }, {
+          "placeId": "ChIJ1Tyj-FgIOxMRbjTZ_qrU9DQ"
+        }, {
+          "placeId": "ChIJrYK0VVgIOxMRvmtMvijdz3c"
+        }, {
+          "placeId": "ChIJrYK0VVgIOxMRx-S0EJLdkrw"
+        }, {
+          "placeId": "ChIJp3O5rlkIOxMRBsZ5eB5-3MI"
+        }, {
+          "placeId": "ChIJBxKkpFkIOxMR-Rr5ICK6hmk"
+        }, {
+          "placeId": "ChIJw55PvFkIOxMR09y8BZdaGIk"
+        }, {
+          "placeId": "ChIJoeDOvFkIOxMR37KbcJA0Usg"
+        }, {
+          "placeId": "ChIJ2eSuolkIOxMRcC-MAukSNCQ"
+        }, {
+          "placeId": "ChIJy67AjVkIOxMRGExUOXh0J9k"
+        }, {
+          "placeId": "ChIJ7ak0J1oIOxMReATsM8sESVg"
+        }, {
+          "placeId": "ChIJkwIzJFoIOxMRzMWVI6BkvEU"
+        }, {
+          "placeId": "ChIJAWprJVoIOxMRFL0PTc27gGo"
+        }, {
+          "placeId": "ChIJKW6LMFoIOxMRv2QicX9V4NE"
+        }, {
+          "placeId": "ChIJIQyGN1oIOxMRj66Zux8jeA4"
+        }, {
+          "placeId": "ChIJE3oKR1oIOxMRWye9X7H6384"
+        }, {
+          "placeId": "ChIJTYazRloIOxMRoAhjAX5jVW4"
+        }, {
+          "placeId": "ChIJKx_wQloIOxMRLAWNZSYVPgQ"
+        }, {
+          "placeId": "ChIJBcf4Z1oIOxMRRBOvpbJ6lQ8"
+        }, {
+          "placeId": "ChIJWRyNZ1oIOxMRZpOjWNIax60"
+        }, {
+          "placeId": "ChIJpe4JZ1oIOxMRnE3BUQcoPf4"
+        }, {
+          "placeId": "ChIJ_XxeYVoIOxMRGl9hVbbIwhY"
+        }, {
+          "placeId": "ChIJ_UNaYloIOxMRKD1tN5IetP0"
+        }, {
+          "placeId": "ChIJ-1vWfFoIOxMR6FVIvGX9PBE"
+        }],
+        "distanceMeters": 7079.406491015339
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408731976,
+          "lngE7": 142204134,
+          "accuracyMeters": 77,
+          "timestamp": "2019-02-09T18:03:45.342Z"
+        }, {
+          "latE7": 408524792,
+          "lngE7": 142498530,
+          "accuracyMeters": 28,
+          "timestamp": "2019-02-09T18:19:39.880Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 408440961,
+          "longitudeE7": 142486585,
+          "accuracyMetres": 61
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-09T18:23:46.144Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408746017,
+        "longitudeE7": 143465554,
+        "placeId": "ChIJZbZYmpGoOxMRb0WdvbT0bGk",
+        "address": "Via Caduti di Nassiria, 10\n80040 Volla NA\nItalia",
+        "name": "Bar Picasso",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 88.60166
+      },
+      "duration": {
+        "startTimestamp": "2019-02-09T18:24:10.065Z",
+        "endTimestamp": "2019-02-10T17:28:59.355Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408744200,
+      "centerLngE7": 143465602,
+      "visitConfidence": 74,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408744781,
+        "longitudeE7": 143467411,
+        "placeId": "ChIJQ_HWwpGoOxMRTmRefV5cJyE",
+        "address": "Via Raffaello Sanzio, 1\n80123 Volla NA\nItalia",
+        "name": "Hotel Leonessa",
+        "locationConfidence": 4.0340133
+      }, {
+        "latitudeE7": 408754102,
+        "longitudeE7": 143484999,
+        "placeId": "ChIJoWtb3pOoOxMREFs8LtQGlF4",
+        "address": "Via Michelangelo\n80040 Volla NA\nItalia",
+        "name": "Centro commerciale Le Ginestre",
+        "locationConfidence": 3.8783853
+      }, {
+        "latitudeE7": 408742078,
+        "longitudeE7": 143468702,
+        "placeId": "ChIJmZ86hZGoOxMRHhv4Gl290vE",
+        "address": "Via Caduti di Nassiria\n80040 Volla NA\nItalia",
+        "name": "Carabinieri Comando Stazione di Volla",
+        "locationConfidence": 0.6483893
+      }, {
+        "latitudeE7": 408744927,
+        "longitudeE7": 143472629,
+        "placeId": "ChIJS5wyJpKoOxMRdX15M77MTGc",
+        "address": "Via Famiglietti\n80040 Volla NA\nItalia",
+        "name": "Moma Lounge Bar",
+        "locationConfidence": 0.25639948
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 75,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408746017,
+        "longitudeE7": 143465554,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408440079,
+        "longitudeE7": 142481782,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-10T17:28:59.355Z",
+        "endTimestamp": "2019-02-10T17:39:41.081Z"
+      },
+      "distance": 8945,
+      "activityType": "MOTORCYCLING",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 44.352531941364425
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 43.57375928384226
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.781163288542873
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408746948,
+          "lngE7": 143467149
+        }, {
+          "latE7": 408656349,
+          "lngE7": 143348302
+        }, {
+          "latE7": 408440437,
+          "lngE7": 142481813
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 13126.873289781459
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 408439393,
+          "longitudeE7": 142481435,
+          "accuracyMetres": 75
+        },
+        "method": "END_OF_ACTIVITY_SEGMENT",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-10T17:41:03.044Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 73.15335
+      },
+      "duration": {
+        "startTimestamp": "2019-02-10T17:39:41.081Z",
+        "endTimestamp": "2019-02-11T08:26:48Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408439495,
+      "centerLngE7": 142481490,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408432215,
+        "longitudeE7": 142489647,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 11.087033
+      }, {
+        "latitudeE7": 408439026,
+        "longitudeE7": 142481833,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 7.2386985
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.72537297
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.6901693
+      }, {
+        "latitudeE7": 408439510,
+        "longitudeE7": 142482469,
+        "placeId": "ChIJBb5gYloIOxMR4rR4kF3WCXY",
+        "locationConfidence": 0.5120397,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 62,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408439018,
+        "longitudeE7": 142488112,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408456967,
+        "longitudeE7": 142551578,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-11T08:26:48Z",
+        "endTimestamp": "2019-02-11T08:34:18.547Z"
+      },
+      "distance": 637,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.85375360828324
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.40523867520359247
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.3100720314277175
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408440017,
+          "lngE7": 142488136
+        }, {
+          "latE7": 408435668,
+          "lngE7": 142503480
+        }, {
+          "latE7": 408457984,
+          "lngE7": 142550287
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 731.2050181972147
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408436151,
+          "lngE7": 142503661,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-11T08:28:15.399Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408456967,
+        "longitudeE7": 142551578,
+        "placeId": "ChIJDxDbNEAIOxMRjNGPufxyq9c",
+        "address": "Vico Banchi Nuovi, 9\n80134 Napoli NA\nItalia",
+        "name": "University of Naples L\u0027Orientale",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 60.352306,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-02-11T08:34:18.547Z",
+        "endTimestamp": "2019-02-11T11:30:54.632Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408457774,
+      "centerLngE7": 142552407,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408459443,
+        "longitudeE7": 142557766,
+        "placeId": "ChIJ164LfEQIOxMR65HNO4TBPJ0",
+        "address": "Via S. Giovanni Maggiore Pignatelli, 27\n80134 Napoli NA\nItalia",
+        "name": "Kestè",
+        "locationConfidence": 9.311092
+      }, {
+        "latitudeE7": 408457047,
+        "longitudeE7": 142552231,
+        "placeId": "ChIJZbygRkQIOxMREirqU049WJA",
+        "address": "Via Candelora, 16\n80134 Napoli NA\nItalia",
+        "name": "Largo Gipolamo Giusso",
+        "locationConfidence": 8.695078,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 408480797,
+        "longitudeE7": 142541714,
+        "placeId": "ChIJ5WbisEQIOxMRs24t-luRf4w",
+        "locationConfidence": 6.7310815
+      }, {
+        "latitudeE7": 408440826,
+        "longitudeE7": 142574249,
+        "placeId": "ChIJw559eUYIOxMRHEAKniqK0o4",
+        "address": "Via Lanzieri, 22\n80133 Napoli NA\nItalia",
+        "name": "Parcheggio Bovio",
+        "locationConfidence": 0.2823137
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 53,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408456967,
+        "longitudeE7": 142551578,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-11T11:30:54.632Z",
+        "endTimestamp": "2019-02-11T11:47:30.740Z"
+      },
+      "distance": 1315,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.56544991008455
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.4500914846203964
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.2510105817194124
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408457984,
+          "lngE7": 142550287
+        }, {
+          "latE7": 408436927,
+          "lngE7": 142501029
+        }, {
+          "latE7": 408438453,
+          "lngE7": 142481231
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 811.1283633559503
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408448829,
+          "lngE7": 142498873,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-11T11:45:27.421Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 70.38894
+      },
+      "duration": {
+        "startTimestamp": "2019-02-11T11:47:30.740Z",
+        "endTimestamp": "2019-02-12T08:51:05.939Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408439424,
+      "centerLngE7": 142481416,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408432215,
+        "longitudeE7": 142489647,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 11.548685
+      }, {
+        "latitudeE7": 408439026,
+        "longitudeE7": 142481833,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 6.502138
+      }, {
+        "latitudeE7": 408451640,
+        "longitudeE7": 142483758,
+        "placeId": "ChIJw-5h-FoIOxMRf3nJHAGdJTM",
+        "address": "Via Pignasecca, 16\n80134 Napoli NA\nItalia",
+        "name": "Pescheria Stella Marina 3",
+        "locationConfidence": 3.3747048
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.6629989
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.5871336
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408439626,
+        "longitudeE7": 142491391,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408508759,
+        "longitudeE7": 142603254,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-12T08:51:05.939Z",
+        "endTimestamp": "2019-02-12T09:04:38.048Z"
+      },
+      "distance": 1384,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 99.27161098702652
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.23862078313732993
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.19581612155812195
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408439750,
+          "lngE7": 142490577
+        }, {
+          "latE7": 408485984,
+          "lngE7": 142559509
+        }, {
+          "latE7": 408509597,
+          "lngE7": 142602777
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1410.8716484922722
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408487648,
+          "lngE7": 142563645,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-12T09:00:35.979Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408312592,
+        "longitudeE7": 142444090,
+        "placeId": "ChIJDxDbNEAIOxMR-HtZRCzs_9E",
+        "address": "Via Chiatamone, 61/62\n80121 Napoli NA\nItalia",
+        "name": "University of Naples \"L\u0027Orientale\"",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 61.884975,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-02-12T09:04:38.048Z",
+        "endTimestamp": "2019-02-12T09:37:11.107Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408509023,
+      "centerLngE7": 142604585,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408508397,
+        "longitudeE7": 142598529,
+        "placeId": "ChIJf2eUzEEIOxMRxV3xEmmZdB8",
+        "address": "Via Duomo\nNapoli NA\nItalia",
+        "name": "Via Duomo",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 25.274664
+      }, {
+        "latitudeE7": 408520318,
+        "longitudeE7": 142606932,
+        "placeId": "ChIJBcb1g2oIOxMRAViin5rgm-s",
+        "address": "Via dei Tribunali, 253\n80139 Napoli NA\nItalia",
+        "name": "Fond.Sm. Della Misericordia",
+        "locationConfidence": 0.29752707
+      }, {
+        "latitudeE7": 408511679,
+        "longitudeE7": 142598142,
+        "placeId": "ChIJrcZ0zUEIOxMRYwD1lXHj50g",
+        "address": "Via Duomo, 201\n80138 Napoli NA\nItalia",
+        "name": "CoffeeBreak",
+        "locationConfidence": 0.2069091
+      }, {
+        "latitudeE7": 408507711,
+        "longitudeE7": 142571509,
+        "placeId": "ChIJJb6MH0IIOxMRqz532Md2ZDg",
+        "address": "Via dei Tribunali, 329\n80138 Napoli NA\nItalia",
+        "name": "Pasticceria Artigianale Ippolito",
+        "locationConfidence": 0.1876775
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408508674,
+        "longitudeE7": 142603812,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-12T09:37:11.107Z",
+        "endTimestamp": "2019-02-12T09:51:34.471Z"
+      },
+      "distance": 1334,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 99.16503726708996
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.33306527976801586
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.3201939677273695
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408509750,
+          "lngE7": 142603216
+        }, {
+          "latE7": 408480682,
+          "lngE7": 142528514
+        }, {
+          "latE7": 408438453,
+          "lngE7": 142481231
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1677.4069779065542
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408475741,
+          "lngE7": 142528731,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-12T09:45:26.636Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 70.54101
+      },
+      "duration": {
+        "startTimestamp": "2019-02-12T09:51:34.471Z",
+        "endTimestamp": "2019-02-13T09:13:55Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408439491,
+      "centerLngE7": 142481410,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408432215,
+        "longitudeE7": 142489647,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 11.137333
+      }, {
+        "latitudeE7": 408439026,
+        "longitudeE7": 142481833,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 6.573695
+      }, {
+        "latitudeE7": 408451640,
+        "longitudeE7": 142483758,
+        "placeId": "ChIJw-5h-FoIOxMRf3nJHAGdJTM",
+        "address": "Via Pignasecca, 16\n80134 Napoli NA\nItalia",
+        "name": "Pescheria Stella Marina 3",
+        "locationConfidence": 3.46863
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.6673013
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.6034811
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 60,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408444766,
+        "longitudeE7": 142492864,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408508759,
+        "longitudeE7": 142603254,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-13T09:13:55Z",
+        "endTimestamp": "2019-02-13T09:27:01.318Z"
+      },
+      "distance": 1217,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 99.28111290979373
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.3021859124152302
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.1779209395395319
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408444824,
+          "lngE7": 142491130
+        }, {
+          "latE7": 408475074,
+          "lngE7": 142525815
+        }, {
+          "latE7": 408509597,
+          "lngE7": 142602777
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1354.2872717762514
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408475692,
+          "lngE7": 142529390,
+          "accuracyMeters": 52,
+          "timestamp": "2019-02-13T09:18:53.695Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408312592,
+        "longitudeE7": 142444090,
+        "placeId": "ChIJDxDbNEAIOxMR-HtZRCzs_9E",
+        "address": "Via Chiatamone, 61/62\n80121 Napoli NA\nItalia",
+        "name": "University of Naples \"L\u0027Orientale\"",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 66.992294,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-02-13T09:27:01.318Z",
+        "endTimestamp": "2019-02-13T10:30:48.604Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408509683,
+      "centerLngE7": 142605608,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408508397,
+        "longitudeE7": 142598529,
+        "placeId": "ChIJf2eUzEEIOxMRxV3xEmmZdB8",
+        "address": "Via Duomo\nNapoli NA\nItalia",
+        "name": "Via Duomo",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 23.62615
+      }, {
+        "latitudeE7": 408520318,
+        "longitudeE7": 142606932,
+        "placeId": "ChIJBcb1g2oIOxMRAViin5rgm-s",
+        "address": "Via dei Tribunali, 253\n80139 Napoli NA\nItalia",
+        "name": "Fond.Sm. Della Misericordia",
+        "locationConfidence": 0.21886063
+      }, {
+        "latitudeE7": 408525890,
+        "longitudeE7": 142598823,
+        "placeId": "ChIJOXnccWoIOxMR3HoYUq2QrYs",
+        "address": "Via Duomo, 147\n80138 Napoli NA\nItalia",
+        "name": "Cattedrale di Santa Maria Assunta",
+        "locationConfidence": 0.20360269
+      }, {
+        "latitudeE7": 408507711,
+        "longitudeE7": 142571509,
+        "placeId": "ChIJJb6MH0IIOxMRqz532Md2ZDg",
+        "address": "Via dei Tribunali, 329\n80138 Napoli NA\nItalia",
+        "name": "Pasticceria Artigianale Ippolito",
+        "locationConfidence": 0.14415655
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 57,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408508759,
+        "longitudeE7": 142603254,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-13T10:30:48.604Z",
+        "endTimestamp": "2019-02-13T10:55:44.249Z"
+      },
+      "distance": 1304,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.36304166217595
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.3358474233897961
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.3965339209936752
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408510169,
+          "lngE7": 142606773
+        }, {
+          "latE7": 408475074,
+          "lngE7": 142525815
+        }, {
+          "latE7": 408438453,
+          "lngE7": 142481231
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1710.8280943112575
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408477053,
+          "lngE7": 142531561,
+          "accuracyMeters": 31,
+          "timestamp": "2019-02-13T10:45:34.019Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408432215,
+        "longitudeE7": 142489647,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B, I-80134 Napoli, Italia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 45.79397
+      },
+      "duration": {
+        "startTimestamp": "2019-02-13T10:55:44.249Z",
+        "endTimestamp": "2019-02-16T21:36:36.012Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408438656,
+      "centerLngE7": 142482319,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 41.996746
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 5.4192157
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.7049729
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.4228194,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 44,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408443707,
+        "longitudeE7": 142492467,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408504621,
+        "longitudeE7": 142461381,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-16T21:36:36.012Z",
+        "endTimestamp": "2019-02-16T22:03:04.195Z"
+      },
+      "distance": 1580,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.10836442523005
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.8991460233626558
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.8273449683988379
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408443794,
+          "lngE7": 142491035
+        }, {
+          "latE7": 408480186,
+          "lngE7": 142495269
+        }, {
+          "latE7": 408504600,
+          "lngE7": 142461347
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 846.58282871245
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408476064,
+          "lngE7": 142495398,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-16T21:46:43.122Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408504621,
+        "longitudeE7": 142461381,
+        "placeId": "ChIJcTfSL1wIOxMRqMe7BS1qDwk",
+        "address": "Salita Pontecorvo, 46\n80135 Napoli NA\nItalia",
+        "name": "Scugnizzo Liberato",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 95.681046
+      },
+      "duration": {
+        "startTimestamp": "2019-02-16T22:03:04.195Z",
+        "endTimestamp": "2019-02-17T00:14:32.173Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408506145,
+      "centerLngE7": 142464138,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408518562,
+        "longitudeE7": 142467651,
+        "placeId": "ChIJ_51u5k8IOxMRwOpyN9TZ9Xw",
+        "address": "Via Salvatore Tommasi, 20\n80135 Napoli NA\nItalia",
+        "name": "Chiesa di San Giuseppe dei Vecchi e Immacolata di Lourdes",
+        "locationConfidence": 0.63345134
+      }, {
+        "latitudeE7": 408507936,
+        "longitudeE7": 142457592,
+        "placeId": "ChIJUTKGK1wIOxMRcriLuxbQXuw",
+        "address": "Salita Pontecorvo, 44\n80135 Napoli NA\nItalia",
+        "name": "Complesso di San Francesco delle Cappuccinelle",
+        "locationConfidence": 0.32445475
+      }, {
+        "latitudeE7": 408508321,
+        "longitudeE7": 142465958,
+        "placeId": "ChIJ3dYsZnYJOxMRwSet8RRXnPM",
+        "address": "Vico Lungo Pontecorvo, 29 d\n80135 Napoli NA\nItalia",
+        "name": "Viale Privato Briante",
+        "locationConfidence": 0.30180982
+      }, {
+        "latitudeE7": 408523100,
+        "longitudeE7": 142439200,
+        "placeId": "ChIJ7aotQF4IOxMRLL2lWojXkQA",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.1541774
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408497944,
+        "longitudeE7": 142469115,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-17T00:14:32.173Z",
+        "endTimestamp": "2019-02-17T00:36:48Z"
+      },
+      "distance": 843,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 96.34170735585998
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 1.6444621120027667
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.9617389341645055
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408497467,
+          "lngE7": 142468967
+        }, {
+          "latE7": 408424034,
+          "lngE7": 142488603
+        }, {
+          "latE7": 408421058,
+          "lngE7": 142476263
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1102.0310817360278
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408451583,
+          "lngE7": 142495585,
+          "accuracyMeters": 18,
+          "timestamp": "2019-02-17T00:35:20Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408432215,
+        "longitudeE7": 142489647,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B, I-80134 Napoli, Italia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 43.908485
+      },
+      "duration": {
+        "startTimestamp": "2019-02-17T00:36:48Z",
+        "endTimestamp": "2019-02-19T08:44:13Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408439208,
+      "centerLngE7": 142481471,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 39.980083
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 6.1034293
+      }, {
+        "latitudeE7": 408418906,
+        "longitudeE7": 142481213,
+        "placeId": "ChIJ19j89FAIOxMR3NHTXNgl9EQ",
+        "address": "Vico Lungo del Gelso, 97, 98, 99\n80134 Napoli NA\nItalia",
+        "name": "Pasticceria Ranaldi",
+        "locationConfidence": 3.3852794
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.5538647
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408444743,
+        "longitudeE7": 142492949,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408508453,
+        "longitudeE7": 142603579,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-19T08:44:13Z",
+        "endTimestamp": "2019-02-19T08:55:12.079Z"
+      },
+      "distance": 1169,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 99.5544579246481
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.25934121155243345
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.08714955469982029
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408444824,
+          "lngE7": 142491130
+        }, {
+          "latE7": 408469963,
+          "lngE7": 142511053
+        }, {
+          "latE7": 408509674,
+          "lngE7": 142602910
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1355.647320952291
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408465550,
+          "lngE7": 142512646,
+          "accuracyMeters": 7,
+          "timestamp": "2019-02-19T08:47:20Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408312592,
+        "longitudeE7": 142444090,
+        "placeId": "ChIJDxDbNEAIOxMR-HtZRCzs_9E",
+        "address": "Via Chiatamone, 61/62\n80121 Napoli NA\nItalia",
+        "name": "University of Naples \"L\u0027Orientale\"",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 63.793354,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-02-19T08:55:12.079Z",
+        "endTimestamp": "2019-02-19T09:54:08.145Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408509230,
+      "centerLngE7": 142605126,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408508397,
+        "longitudeE7": 142598529,
+        "placeId": "ChIJf2eUzEEIOxMRxV3xEmmZdB8",
+        "address": "Via Duomo\nNapoli NA\nItalia",
+        "name": "Via Duomo",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 26.011272
+      }, {
+        "latitudeE7": 408520318,
+        "longitudeE7": 142606932,
+        "placeId": "ChIJBcb1g2oIOxMRAViin5rgm-s",
+        "address": "Via dei Tribunali, 253\n80139 Napoli NA\nItalia",
+        "name": "Fond.Sm. Della Misericordia",
+        "locationConfidence": 0.2330741
+      }, {
+        "latitudeE7": 408518463,
+        "longitudeE7": 142599441,
+        "placeId": "ChIJD63thmoIOxMR8vTv4SZ40rM",
+        "locationConfidence": 0.14214535
+      }, {
+        "latitudeE7": 408515310,
+        "longitudeE7": 142588746,
+        "placeId": "ChIJwZ-dzGoIOxMRkRZqWOum7VA",
+        "address": "Via dei Tribunali, 195\n80139 Napoli NA\nItalia",
+        "name": "Giavi Style parrucchieri",
+        "locationConfidence": 0.13544376
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 55,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408509793,
+        "longitudeE7": 142607082,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-19T09:54:08.145Z",
+        "endTimestamp": "2019-02-19T10:15:16.823Z"
+      },
+      "distance": 1349,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.57131949184615
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.535383743707535
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.4195555774987413
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408509788,
+          "lngE7": 142607021
+        }, {
+          "latE7": 408469963,
+          "lngE7": 142511053
+        }, {
+          "latE7": 408439407,
+          "lngE7": 142481317
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 1704.9267262138837
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408469385,
+          "lngE7": 142515383,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-19T10:09:22.627Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 49.12811
+      },
+      "duration": {
+        "startTimestamp": "2019-02-19T10:15:16.823Z",
+        "endTimestamp": "2019-02-21T13:17:32Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408438363,
+      "centerLngE7": 142482382,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 38.838154
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 5.2933164
+      }, {
+        "latitudeE7": 408418906,
+        "longitudeE7": 142481213,
+        "placeId": "ChIJ19j89FAIOxMR3NHTXNgl9EQ",
+        "address": "Vico Lungo del Gelso, 97, 98, 99\n80134 Napoli NA\nItalia",
+        "name": "Pasticceria Ranaldi",
+        "locationConfidence": 0.59135294
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.44375396
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 46,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408432278,
+        "longitudeE7": 142489813,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408414162,
+        "longitudeE7": 142498205,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-21T13:17:32Z",
+        "endTimestamp": "2019-02-21T13:21:47.702Z"
+      },
+      "distance": 241,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 98.48509694935683
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.7407057358125197
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.5172522898163614
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408432273,
+          "lngE7": 142489595
+        }, {
+          "latE7": 408425064,
+          "lngE7": 142488737
+        }, {
+          "latE7": 408413658,
+          "lngE7": 142498016
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 273.0367213274547
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408420369,
+          "lngE7": 142488330,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-21T13:19:46.637Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408414236,
+        "longitudeE7": 142510298,
+        "placeId": "ChIJX8nUIFAIOxMR9QndkQj_u4U",
+        "address": "Via Miguel Cervantes de Saavedra, 66\n80133 Napoli NA\nItalia",
+        "name": "\u0027O Macarò",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 93.624695
+      },
+      "duration": {
+        "startTimestamp": "2019-02-21T13:21:47.702Z",
+        "endTimestamp": "2019-02-21T14:51:08.486Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408413710,
+      "centerLngE7": 142508120,
+      "visitConfidence": 89,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408423169,
+        "longitudeE7": 142515401,
+        "placeId": "ChIJCz3-_E8IOxMRAo7aCRVBhy8",
+        "address": "Via Guantai Nuovi, 11\n80133 Napoli NA\nItalia",
+        "name": "Criscuolo Notaio Guido",
+        "locationConfidence": 0.10435647
+      }, {
+        "latitudeE7": 408424766,
+        "longitudeE7": 142501952,
+        "placeId": "ChIJ5_CHb1AIOxMRWsulN5qkLMo",
+        "address": "Via Armando Diaz, 8\n80134 Napoli NA\nItalia",
+        "name": "Studio Notarile Mustilli di Lodovico e Fulvia Mustilli",
+        "locationConfidence": 0.097441256
+      }, {
+        "latitudeE7": 408423321,
+        "longitudeE7": 142507820,
+        "placeId": "ChIJHznDBFAIOxMRThPAy784VUk",
+        "address": "Via dei Fiorentini, 61\n80133 Napoli NA\nItalia",
+        "name": "Ecocardiosector - Di Giovanni Severino \u0026 C. S.A.S.",
+        "locationConfidence": 0.09719636
+      }, {
+        "latitudeE7": 408420119,
+        "longitudeE7": 142513195,
+        "placeId": "ChIJW-tB4k8IOxMRcJeS5chKkp8",
+        "address": "Via Guantai Nuovi, 30\n80133 Napoli NA\nItalia",
+        "name": "Reale Mutua - Agenzia Napoli Ovest",
+        "locationConfidence": 0.08521404
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 82,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408414236,
+        "longitudeE7": 142510298,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-21T14:51:08.486Z",
+        "endTimestamp": "2019-02-21T14:53:09.933Z"
+      },
+      "distance": 462,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 97.87119096221488
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 1.3082069042071998
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.5730589029014277
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408414039,
+          "lngE7": 142511081
+        }, {
+          "latE7": 408419532,
+          "lngE7": 142500915
+        }, {
+          "latE7": 408425140,
+          "lngE7": 142491655
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 288.9613853477569
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408410336,
+          "lngE7": 142501334,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-21T14:51:08.486Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 44.873386
+      },
+      "duration": {
+        "startTimestamp": "2019-02-21T14:53:09.933Z",
+        "endTimestamp": "2019-02-22T08:51:13.312Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408439196,
+      "centerLngE7": 142481311,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 42.154846
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 5.8760414
+      }, {
+        "latitudeE7": 408418906,
+        "longitudeE7": 142481213,
+        "placeId": "ChIJ19j89FAIOxMR3NHTXNgl9EQ",
+        "address": "Vico Lungo del Gelso, 97, 98, 99\n80134 Napoli NA\nItalia",
+        "name": "Pasticceria Ranaldi",
+        "locationConfidence": 0.8408967
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.4819477
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408438956,
+        "longitudeE7": 142481464,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408486749,
+        "longitudeE7": 142551635,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-22T08:51:13.312Z",
+        "endTimestamp": "2019-02-22T08:59:17.442Z"
+      },
+      "distance": 804,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 99.17466005673373
+      }, {
+        "activityType": "IN_SUBWAY",
+        "probability": 0.3081207457016864
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.22914344523367294
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408438949,
+          "lngE7": 142481279
+        }, {
+          "latE7": 408475074,
+          "lngE7": 142525815
+        }, {
+          "latE7": 408485069,
+          "lngE7": 142551612
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 934.2343762004089
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408477646,
+          "lngE7": 142532113,
+          "accuracyMeters": 23,
+          "timestamp": "2019-02-22T08:57:16.412Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408481795,
+        "longitudeE7": 142544539,
+        "placeId": "ChIJq5VBeUMIOxMRm9SDAiGot2g",
+        "address": "Via Benedetto Croce, 30/31\n80134 Napoli NA\nItaly",
+        "name": "Leopoldo Cafebar",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 61.20153
+      },
+      "duration": {
+        "startTimestamp": "2019-02-22T08:59:17.442Z",
+        "endTimestamp": "2019-02-22T11:27:19Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408484205,
+      "centerLngE7": 142548131,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408470936,
+        "longitudeE7": 142517471,
+        "placeId": "ChIJ5WbisEQIOxMRs24t-luRf4w",
+        "locationConfidence": 4.357204
+      }, {
+        "latitudeE7": 408462874,
+        "longitudeE7": 142556311,
+        "placeId": "ChIJg4i6FEQIOxMR2oVR_o9Tux4",
+        "address": "Via Enrico De Marinis, 14\n80134 Napoli NA\nItalia",
+        "name": "Le Tue Fotocopie",
+        "locationConfidence": 2.4233015
+      }, {
+        "latitudeE7": 408486990,
+        "longitudeE7": 142545405,
+        "placeId": "ChIJr1JUmEMIOxMRJJF1gIGliZo",
+        "address": "P.za S. Domenico Maggiore, 9\n80134 Napoli NA\nItalia",
+        "name": "jamón",
+        "locationConfidence": 1.5966651
+      }, {
+        "latitudeE7": 408487995,
+        "longitudeE7": 142544184,
+        "placeId": "ChIJx2tP9EEIOxMRgDWwdqI13QU",
+        "address": "P.za S. Domenico Maggiore, 8A\n80134 Napoli NA\nItalia",
+        "name": "Chiesa di San Domenico Maggiore",
+        "locationConfidence": 1.2340856
+      }, {
+        "latitudeE7": 408482237,
+        "longitudeE7": 142548475,
+        "placeId": "ChIJRTENmkMIOxMRsCOgKnrM-jU",
+        "address": "P.za S. Domenico Maggiore, 19\n80134 Napoli NA\nItalia",
+        "name": "Scaturchio",
+        "locationConfidence": 1.1297178
+      }, {
+        "latitudeE7": 408483036,
+        "longitudeE7": 142545770,
+        "placeId": "ChIJ5z7nm0MIOxMRo3x_2HZ7dWw",
+        "address": "P.za S. Domenico Maggiore, 33\n80134 Napoli NA\nItalia",
+        "name": "Palazzo Petrucci",
+        "locationConfidence": 1.0265106
+      }, {
+        "latitudeE7": 408477771,
+        "longitudeE7": 142536935,
+        "placeId": "ChIJx9KinEMIOxMRnurIHte8YqA",
+        "address": "Via Benedetto Croce, 50\n80134 Napoli NA\nItalia",
+        "name": "La Pastiera Napoletana",
+        "locationConfidence": 0.82317406
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 54,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408477638,
+        "longitudeE7": 142556444,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-22T11:27:19Z",
+        "endTimestamp": "2019-02-22T11:55:40.772Z"
+      },
+      "distance": 1380,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 99.22383912260754
+      }, {
+        "activityType": "HIKING",
+        "probability": 0.2528189917507877
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 0.24037027446192294
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408477630,
+          "lngE7": 142556409
+        }, {
+          "latE7": 408475074,
+          "lngE7": 142525815
+        }, {
+          "latE7": 408439407,
+          "lngE7": 142481317
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 987.6476252607478
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408477638,
+          "lngE7": 142556444,
+          "accuracyMeters": 11,
+          "timestamp": "2019-02-22T11:27:19Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 44.677326
+      },
+      "duration": {
+        "startTimestamp": "2019-02-22T11:55:40.772Z",
+        "endTimestamp": "2019-02-22T20:37:58.156Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408438822,
+      "centerLngE7": 142482064,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 44.280758
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 4.6693735
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.7186254
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.33463675,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 43,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408432756,
+        "longitudeE7": 142490829,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 409448598,
+        "longitudeE7": 142619244,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-22T20:37:58.156Z",
+        "endTimestamp": "2019-02-22T21:11:30Z"
+      },
+      "distance": 14599,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 85.86437583845043
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 13.313816000598722
+      }, {
+        "activityType": "WALKING",
+        "probability": 0.6045332746074572
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408432846,
+          "lngE7": 142489643
+        }, {
+          "latE7": 408513374,
+          "lngE7": 142424306
+        }, {
+          "latE7": 409448165,
+          "lngE7": 142618026
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJWyogg1oIOxMRLaIadzbUEhQ"
+        }, {
+          "placeId": "ChIJXa7GhFoIOxMRPTiK_3c6LtU"
+        }, {
+          "placeId": "ChIJf-4ohFoIOxMRSRqQJBQMNsU"
+        }, {
+          "placeId": "ChIJv7aTfVoIOxMRGp-uotGN0gQ"
+        }, {
+          "placeId": "ChIJ-0kKfFoIOxMRmrbX_1ias6o"
+        }, {
+          "placeId": "ChIJ68IveloIOxMR4K60jVSiKw4"
+        }, {
+          "placeId": "ChIJj50GeloIOxMRXK7o8aMg3b0"
+        }, {
+          "placeId": "ChIJi0-ucFoIOxMRM3NDC_lNFfM"
+        }, {
+          "placeId": "ChIJoykdcVoIOxMRxeBIUhQUwhY"
+        }, {
+          "placeId": "ChIJf8F0cloIOxMRL2J7YjK8FSw"
+        }, {
+          "placeId": "ChIJXe0tE1oIOxMR-8FVtDHAwek"
+        }, {
+          "placeId": "ChIJMx2AFFoIOxMRheCccprd7n0"
+        }, {
+          "placeId": "ChIJp50lFFoIOxMRUs0hzYZ9aT4"
+        }, {
+          "placeId": "ChIJcaBqF1oIOxMRX7CEYb9HQFc"
+        }, {
+          "placeId": "ChIJA8wvGVoIOxMR3hpc37VvvWU"
+        }, {
+          "placeId": "ChIJmRF0IFoIOxMRO6mNDrowFdE"
+        }, {
+          "placeId": "ChIJy67AjVkIOxMRGUxUOXh0J9k"
+        }, {
+          "placeId": "ChIJ2eSuolkIOxMRcS-MAukSNCQ"
+        }, {
+          "placeId": "ChIJoeDOvFkIOxMR3rKbcJA0Usg"
+        }, {
+          "placeId": "ChIJw55PvFkIOxMR0ty8BZdaGIk"
+        }, {
+          "placeId": "ChIJBxKkpFkIOxMR-Br5ICK6hmk"
+        }, {
+          "placeId": "ChIJp3O5rlkIOxMRB8Z5eB5-3MI"
+        }, {
+          "placeId": "ChIJrYK0VVgIOxMRxuS0EJLdkrw"
+        }, {
+          "placeId": "ChIJrYK0VVgIOxMRv2tMvijdz3c"
+        }, {
+          "placeId": "ChIJ1Tyj-FgIOxMRbzTZ_qrU9DQ"
+        }, {
+          "placeId": "ChIJFfVt8FgIOxMRiei_J15j05g"
+        }, {
+          "placeId": "ChIJOSgg8FgIOxMR8JLuYDmrNJo"
+        }, {
+          "placeId": "ChIJawTB7lgIOxMRjskIXKOIv9U"
+        }, {
+          "placeId": "ChIJ_xk36lgIOxMR_W0abqJXonY"
+        }, {
+          "placeId": "ChIJCTtMwFgIOxMRlg1Tzz2YTKg"
+        }, {
+          "placeId": "ChIJgXNGx1gIOxMRZVWY0xLsnxE"
+        }, {
+          "placeId": "ChIJMQRryFgIOxMR8WvOhAKnAOs"
+        }, {
+          "placeId": "ChIJlxSpy1gIOxMRg3DiNwOqJ1w"
+        }, {
+          "placeId": "ChIJS8-6NF8IOxMRkfn-HKT6Sb0"
+        }, {
+          "placeId": "ChIJ_UM-MV8IOxMRe0MN2t6bBMQ"
+        }, {
+          "placeId": "ChIJWwxqO18IOxMROG7cmwb0bf0"
+        }, {
+          "placeId": "ChIJH7ahIl8IOxMRuivDN1_Whig"
+        }, {
+          "placeId": "ChIJzfnBG18IOxMRzn5OMUDRrDc"
+        }, {
+          "placeId": "ChIJxzm7A18IOxMRoUJo-Y6hbCg"
+        }, {
+          "placeId": "ChIJvwAXAF8IOxMRkcXok8itFYY"
+        }, {
+          "placeId": "ChIJt74wVV4IOxMRt0yRh8Sqias"
+        }, {
+          "placeId": "ChIJQ-1WVF4IOxMRJQ_k9xdeL2o"
+        }, {
+          "placeId": "ChIJadJjUF4IOxMRL9XDfFX67cA"
+        }, {
+          "placeId": "ChIJfXncQ14IOxMRy1HWNo0xhPU"
+        }, {
+          "placeId": "ChIJXa6BFF4IOxMRtxcp8nOLQrw"
+        }, {
+          "placeId": "ChIJM6E1El4IOxMRinDQ9QBwXNY"
+        }, {
+          "placeId": "ChIJbUMoCV4IOxMRqdVGlB8OyFA"
+        }, {
+          "placeId": "ChIJpa0u_V0IOxMRg1YXKQ3ahz0"
+        }, {
+          "placeId": "ChIJXaWW_F0IOxMRVB21LyGL790"
+        }, {
+          "placeId": "ChIJLSSV-V0IOxMRFQt9GBm_Vn8"
+        }, {
+          "placeId": "ChIJ7xYh-F0IOxMRvfTRfwYEW5w"
+        }, {
+          "placeId": "ChIJHZuoZ2cIOxMRbM9edxfD_5k"
+        }, {
+          "placeId": "ChIJi7bgnGcIOxMRDEp4de_bxD4"
+        }, {
+          "placeId": "ChIJzX0_jmcIOxMR--T8vOPcQvw"
+        }, {
+          "placeId": "ChIJTRwkVmYIOxMRKwbXy3KcEDk"
+        }, {
+          "placeId": "ChIJl_qjWGYIOxMRrXURLnYhW8M"
+        }, {
+          "placeId": "ChIJzwoyYGYIOxMRoZOI3G0Jp_o"
+        }, {
+          "placeId": "ChIJfR1QfWYIOxMRJ0-ghwdcwFA"
+        }, {
+          "placeId": "ChIJJfszfmYIOxMRSMHOtVAqz_Y"
+        }, {
+          "placeId": "ChIJ1WdA1WUIOxMRG0y5s7tjHYU"
+        }, {
+          "placeId": "ChIJhR-j1GUIOxMRPTzavCi_y8o"
+        }, {
+          "placeId": "ChIJrUS_0mUIOxMRknMMfvYfx8I"
+        }, {
+          "placeId": "ChIJV20jzWUIOxMRfIXUhS31ud0"
+        }, {
+          "placeId": "ChIJfymhzGUIOxMRH8El3KQO-P4"
+        }, {
+          "placeId": "ChIJdda4ymUIOxMRT372lCBx3IM"
+        }, {
+          "placeId": "ChIJ5588tWUIOxMR30PptIjMVrg"
+        }, {
+          "placeId": "ChIJRdhus2UIOxMRDOvjIAGL1tw"
+        }, {
+          "placeId": "ChIJw1lsAmUIOxMR30PWlzVkOz4"
+        }, {
+          "placeId": "ChIJd0zEH2UIOxMR63vrha-gAZI"
+        }, {
+          "placeId": "ChIJb9_hJ2UIOxMRRl1NmZiJmic"
+        }, {
+          "placeId": "ChIJX8S91XoIOxMRmXNvGRgwjjE"
+        }, {
+          "placeId": "ChIJTYk_2HoIOxMRSCbW5VZmHW8"
+        }, {
+          "placeId": "ChIJ8RXs2HoIOxMRtjJEFg8ayiQ"
+        }, {
+          "placeId": "ChIJYZ1u4HoIOxMRiFDXX68YK_Y"
+        }, {
+          "placeId": "ChIJp-0W_XoIOxMRsaDt1jT0Fko"
+        }, {
+          "placeId": "ChIJfWG4VXoIOxMRnBuiEZrhDz4"
+        }, {
+          "placeId": "ChIJf2UPU3oIOxMRMqHckZEu7UI"
+        }, {
+          "placeId": "ChIJowItM3oIOxMRfTheQw8hQLg"
+        }, {
+          "placeId": "ChIJ445yM3oIOxMRGZhMMBcidR0"
+        }, {
+          "placeId": "ChIJ7xiBM3oIOxMRVeAVRWURPhg"
+        }, {
+          "placeId": "ChIJh8gFRnoIOxMRw2u1p341KYs"
+        }, {
+          "placeId": "ChIJc3_gR3oIOxMRb1sEphWsZHI"
+        }, {
+          "placeId": "ChIJja4ROnoIOxMR1zDtHngSXw4"
+        }, {
+          "placeId": "ChIJQX5Iz3kIOxMR0mSMG4vyaxw"
+        }, {
+          "placeId": "ChIJR0VMy3kIOxMRgLj51lVL4h0"
+        }, {
+          "placeId": "ChIJry1eOHgIOxMR4zh64bpYaLQ"
+        }, {
+          "placeId": "ChIJyTzqangIOxMRz6Z3hpgxqZI"
+        }, {
+          "placeId": "ChIJOXD2bXgIOxMRFZR5ETUhf-M"
+        }, {
+          "placeId": "ChIJe4Bc0NcHOxMR2q_UldtRrgc"
+        }, {
+          "placeId": "ChIJNbWGs9cHOxMRjmPzGuDfYnY"
+        }, {
+          "placeId": "ChIJpVRsrNcHOxMR-fATlpLWaGc"
+        }, {
+          "placeId": "ChIJ9wyCA9cHOxMRScGpZayAvII"
+        }, {
+          "placeId": "ChIJgQDKGNcHOxMRofsolI0U6VU"
+        }, {
+          "placeId": "ChIJGbYDLNcHOxMRhpyWpP2M6nM"
+        }, {
+          "placeId": "ChIJV7jh29AHOxMRnE3Z0V3fIYI"
+        }, {
+          "placeId": "ChIJcU_L4NAHOxMRc8z6aT5W6kk"
+        }, {
+          "placeId": "ChIJOZHiFc8HOxMRTV_bmIS5amQ"
+        }, {
+          "placeId": "ChIJvZZRs8gHOxMRirmnULomn-I"
+        }, {
+          "placeId": "ChIJjWvOncgHOxMRSG6RIvb3vek"
+        }, {
+          "placeId": "ChIJO4ifncgHOxMRALVDOd6u45U"
+        }, {
+          "placeId": "ChIJ-UO6KcYHOxMRA-_kJJ-G5vU"
+        }, {
+          "placeId": "ChIJcUS608cHOxMRXi7WsmOVLCI"
+        }, {
+          "placeId": "ChIJ2wz-z8cHOxMR3QneQn15Zjs"
+        }, {
+          "placeId": "ChIJjTPlcLgHOxMRd8RK6LlD5EA"
+        }, {
+          "placeId": "ChIJjVdwZbgHOxMRABfC8u0p-8s"
+        }, {
+          "placeId": "ChIJ7QzPZbgHOxMRqZ74WLbyytA"
+        }, {
+          "placeId": "ChIJJTbsXrgHOxMR2VXKRTIvAFg"
+        }, {
+          "placeId": "ChIJJYIN_rgHOxMRRfYpQKTdyhw"
+        }, {
+          "placeId": "ChIJg4CwEbkHOxMRr1nOKGTB_a0"
+        }, {
+          "placeId": "ChIJ14I0aLkHOxMRQJqAliG22YE"
+        }, {
+          "placeId": "ChIJszkA4rsHOxMR5LMzwbhW_cM"
+        }, {
+          "placeId": "ChIJHeqO5LsHOxMRlFW8hvDjMqY"
+        }, {
+          "placeId": "ChIJl2U65bsHOxMR-qZKMPAzXIs"
+        }, {
+          "placeId": "ChIJVXgN8LsHOxMRunqKfxO0jkc"
+        }, {
+          "placeId": "ChIJ7RkF9LsHOxMR7CZGlkxX0S8"
+        }, {
+          "placeId": "ChIJaViydrwHOxMR-qFFPTSTsdk"
+        }, {
+          "placeId": "ChIJ9ySHY7wHOxMR0Tj4r1kGk6g"
+        }, {
+          "placeId": "ChIJRSF8irwHOxMROVFbOtvPzS4"
+        }, {
+          "placeId": "ChIJ6_kz8rwHOxMR5GZYyY7_aTY"
+        }, {
+          "placeId": "ChIJH88S5rwHOxMRrxzXFZUKwKs"
+        }, {
+          "placeId": "ChIJ99Uc37wHOxMRFjbqOxEv0H0"
+        }, {
+          "placeId": "ChIJZQ3ZLb0HOxMR0ngeJ_Mtr-Y"
+        }, {
+          "placeId": "ChIJHUhCvKIHOxMRfiSkKjcLyfU"
+        }, {
+          "placeId": "ChIJ065DmKIHOxMRhNT31LYPkX0"
+        }, {
+          "placeId": "ChIJ85i5nqIHOxMRCrADMOZ1LpY"
+        }, {
+          "placeId": "ChIJp7PwnaIHOxMRp34V7FW563I"
+        }, {
+          "placeId": "ChIJGXV7dpgHOxMRLNdrokxMaZg"
+        }, {
+          "placeId": "ChIJx9YscpgHOxMR78vcO9DBlZY"
+        }, {
+          "placeId": "ChIJWzFyWpgHOxMRoZ4KnZdrhaE"
+        }, {
+          "placeId": "ChIJseWDQ5kHOxMRL9MztuUclYI"
+        }, {
+          "placeId": "ChIJ0fJj-psHOxMRsdNEtqm0Im8"
+        }, {
+          "placeId": "ChIJE1cphpsHOxMRzGDn9RYGMn8"
+        }, {
+          "placeId": "ChIJu_NpgJsHOxMREf5GLA1Hy-E"
+        }, {
+          "placeId": "ChIJezMJgpwHOxMR1B04MRn0SZo"
+        }, {
+          "placeId": "ChIJIRLInZwHOxMRTNqTgT1eVaQ"
+        }, {
+          "placeId": "ChIJxdbGpZwHOxMRwuTU4pKmO6Q"
+        }, {
+          "placeId": "ChIJ0R-dTYMHOxMRx3FaxyJlnwE"
+        }, {
+          "placeId": "ChIJday0RoMHOxMR2gUmt5N7kK8"
+        }, {
+          "placeId": "ChIJH4uNEoMHOxMR0yhC1UslKTc"
+        }, {
+          "placeId": "ChIJ1y67CYMHOxMRvFbHc-knflk"
+        }, {
+          "placeId": "ChIJFXFDr4MHOxMRthq7IPCnKL0"
+        }, {
+          "placeId": "ChIJO9KVsYMHOxMR9HAKnUowxns"
+        }, {
+          "placeId": "ChIJz2ketYMHOxMRc2osMW_S5jU"
+        }, {
+          "placeId": "ChIJP9yxNoIHOxMR1fuEHZ47F_Y"
+        }, {
+          "placeId": "ChIJLZ-QI4IHOxMReBZFUBetDg0"
+        }, {
+          "placeId": "ChIJBa-rMX8HOxMR7QFq-MActhM"
+        }, {
+          "placeId": "ChIJ51NfoX4HOxMRKurV-7guT6E"
+        }, {
+          "placeId": "ChIJn9uVRHwHOxMRkazhHaAPTTE"
+        }, {
+          "placeId": "ChIJbRuNW3wHOxMRC6BNRsYo_4k"
+        }, {
+          "placeId": "ChIJhzAIX3wHOxMRXNznJKW5Z-s"
+        }, {
+          "placeId": "ChIJ6UPUinwHOxMRigwTJHWV5Ic"
+        }, {
+          "placeId": "ChIJwfyGjHwHOxMRaaFzfB-pZKY"
+        }, {
+          "placeId": "ChIJT_vFjXwHOxMR99T6lxLWysc"
+        }, {
+          "placeId": "ChIJJYLrkXwHOxMR91ot7SyuFZo"
+        }, {
+          "placeId": "ChIJ7VK6V3sHOxMRlNHJDIQqQus"
+        }, {
+          "placeId": "ChIJW6qWVWQHOxMRoeQmXt_424E"
+        }, {
+          "placeId": "ChIJrRweKmYHOxMRMJOkvp-mzxE"
+        }, {
+          "placeId": "ChIJfbN3okIHOxMRHEh-kUpB4l8"
+        }, {
+          "placeId": "ChIJ2b6avkIHOxMRfDLfqxUvK7Y"
+        }, {
+          "placeId": "ChIJ63HRwkIHOxMRKLj7v15zIkM"
+        }, {
+          "placeId": "ChIJI9Q1GkMHOxMRVgDuYWLVEWI"
+        }, {
+          "placeId": "ChIJe9ehEUMHOxMRCHEBahrqugQ"
+        }, {
+          "placeId": "ChIJkbXzEkMHOxMRFj8Nmlao9S4"
+        }, {
+          "placeId": "ChIJp_IrbkMHOxMRSEbFgpbekss"
+        }, {
+          "placeId": "ChIJGar4jkQHOxMRFAlqMcCpk5Q"
+        }, {
+          "placeId": "ChIJR7Th-0QHOxMRppZx-_oF8jc"
+        }, {
+          "placeId": "ChIJgTCo_kQHOxMRe9lDyryK6mc"
+        }, {
+          "placeId": "ChIJl0uATEQHOxMR2vLlToxfj48"
+        }, {
+          "placeId": "ChIJ6zYmK0QHOxMRq4q5jOwUKRw"
+        }, {
+          "placeId": "ChIJL3-rgEYHOxMRtcELXIDKSR0"
+        }, {
+          "placeId": "ChIJ10qJZEYHOxMR5ozfYCRR9fA"
+        }, {
+          "placeId": "ChIJWbdeaUYHOxMR0mbAZdtp_Pk"
+        }, {
+          "placeId": "ChIJo_r4PUYHOxMRkpBaRuUjtGU"
+        }, {
+          "placeId": "ChIJa11dIUYHOxMR9wF-QQnNUjw"
+        }, {
+          "placeId": "ChIJ4wiCj0gHOxMRYT9pTP7Ef4w"
+        }, {
+          "placeId": "ChIJu1c9V0gHOxMRQjTF6klMpF8"
+        }, {
+          "placeId": "ChIJL-TysUkHOxMRSnushamjC-Y"
+        }, {
+          "placeId": "ChIJTavJvkkHOxMRCe6NuFxmuIw"
+        }, {
+          "placeId": "ChIJA_-exEkHOxMR-2jNnMnJtQc"
+        }, {
+          "placeId": "ChIJz0czHzYHOxMRgZfVB5cl86k"
+        }, {
+          "placeId": "ChIJ6xtgDjYHOxMRXMYLYKIA2Nc"
+        }, {
+          "placeId": "ChIJSaIhFzYHOxMRfXbFw5Mw8ck"
+        }],
+        "distanceMeters": 15524.012320536842
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 409448598,
+          "longitudeE7": 142619244,
+          "accuracyMetres": 36
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-22T21:15:08.900Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 409448566,
+        "longitudeE7": 142618454,
+        "placeId": "ChIJQ6CVETYHOxMRlBYOTgH-UB0",
+        "address": "Traversa II Giuseppe Mazzini, 8\n80027 Frattamaggiore NA\nItalia",
+        "name": "Sound Music Club",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 97.52169
+      },
+      "duration": {
+        "startTimestamp": "2019-02-22T21:11:30Z",
+        "endTimestamp": "2019-02-23T00:13:19.403Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 409448361,
+      "centerLngE7": 142619874,
+      "visitConfidence": 96,
+      "otherCandidateLocations": [{
+        "latitudeE7": 409448566,
+        "longitudeE7": 142618454,
+        "placeId": "ChIJ9STrDjYHOxMRARt1ccDAywg",
+        "address": "Traversa II Giuseppe Mazzini, 8\n80027 Frattamaggiore NA\nItalia",
+        "name": "Traversa II Giuseppe Mazzini, 8",
+        "locationConfidence": 0.99526876
+      }, {
+        "latitudeE7": 409448700,
+        "longitudeE7": 142621122,
+        "placeId": "ChIJ3VnlGjYHOxMRFqTZam3coZQ",
+        "address": "Via Francesco de Pinedo, 46\n80027 Frattamaggiore NA\nItalia",
+        "name": "Via Francesco de Pinedo, 46",
+        "locationConfidence": 0.34006914
+      }, {
+        "latitudeE7": 409447951,
+        "longitudeE7": 142618816,
+        "placeId": "ChIJtejxETYHOxMRINe-AWxbrRw",
+        "address": "Traversa II Giuseppe Mazzini, 10\n80027 Frattamaggiore NA\nItalia",
+        "name": "Traversa II Giuseppe Mazzini, 10",
+        "locationConfidence": 0.33635965,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 409456673,
+        "longitudeE7": 142632711,
+        "placeId": "ChIJA-LwA0oHOxMRyRdnCtKcFdM",
+        "address": "Via Giuseppe Mazzini, 111\n80027 Frattamaggiore NA\nItalia",
+        "name": "Dolce Sfizio",
+        "locationConfidence": 0.07429361
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 88,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 409451680,
+        "longitudeE7": 142617501,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408434945,
+        "longitudeE7": 142490991,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-23T00:13:19.403Z",
+        "endTimestamp": "2019-02-23T01:01:26.249Z"
+      },
+      "distance": 20427,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 84.703452176504
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 7.535620860877093
+      }, {
+        "activityType": "WALKING",
+        "probability": 7.200716425593521
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 409450836,
+          "lngE7": 142618093
+        }, {
+          "latE7": 409140625,
+          "lngE7": 142751998
+        }, {
+          "latE7": 409105186,
+          "lngE7": 142757329
+        }, {
+          "latE7": 408962478,
+          "lngE7": 143068113
+        }, {
+          "latE7": 408506507,
+          "lngE7": 142728481
+        }, {
+          "latE7": 408326110,
+          "lngE7": 142432765
+        }, {
+          "latE7": 408333511,
+          "lngE7": 142213325
+        }, {
+          "latE7": 408456344,
+          "lngE7": 142437400
+        }, {
+          "latE7": 408434982,
+          "lngE7": 142489852
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJ6xtgDjYHOxMRXcYLYKIA2Nc"
+        }, {
+          "placeId": "ChIJz0czHzYHOxMRgJfVB5cl86k"
+        }, {
+          "placeId": "ChIJj3if1kkHOxMRgehRZZmAESc"
+        }, {
+          "placeId": "ChIJMXxEyUkHOxMRASTX5GUucLU"
+        }, {
+          "placeId": "ChIJL-TysUkHOxMRS3ushamjC-Y"
+        }, {
+          "placeId": "ChIJu1c9V0gHOxMRQzTF6klMpF8"
+        }, {
+          "placeId": "ChIJDwfMb0gHOxMRWG4GjjLCSTE"
+        }, {
+          "placeId": "ChIJ0yIc3UcHOxMRDePNrOHXpzM"
+        }, {
+          "placeId": "ChIJ0yIc3UcHOxMRsNzTwVBzbr0"
+        }, {
+          "placeId": "ChIJqSmzyEcHOxMRYqjYEDC_Ch0"
+        }, {
+          "placeId": "ChIJDTTDzkcHOxMReff8yxL5OCk"
+        }, {
+          "placeId": "ChIJqYMyzEcHOxMRp7-1nScDoOg"
+        }, {
+          "placeId": "ChIJfzyGLkYHOxMRqUT_7cXGnVg"
+        }, {
+          "placeId": "ChIJa11dIUYHOxMR9gF-QQnNUjw"
+        }, {
+          "placeId": "ChIJo_r4PUYHOxMRk5BaRuUjtGU"
+        }, {
+          "placeId": "ChIJWbdeaUYHOxMR02bAZdtp_Pk"
+        }, {
+          "placeId": "ChIJ10qJZEYHOxMR54zfYCRR9fA"
+        }, {
+          "placeId": "ChIJL3-rgEYHOxMRtMELXIDKSR0"
+        }, {
+          "placeId": "ChIJ6zYmK0QHOxMRqoq5jOwUKRw"
+        }, {
+          "placeId": "ChIJl0uATEQHOxMR2_LlToxfj48"
+        }, {
+          "placeId": "ChIJgTCo_kQHOxMRetlDyryK6mc"
+        }, {
+          "placeId": "ChIJR7Th-0QHOxMRp5Zx-_oF8jc"
+        }, {
+          "placeId": "ChIJGar4jkQHOxMRFQlqMcCpk5Q"
+        }, {
+          "placeId": "ChIJp_IrbkMHOxMRSUbFgpbekss"
+        }, {
+          "placeId": "ChIJkbXzEkMHOxMRFz8Nmlao9S4"
+        }, {
+          "placeId": "ChIJe9ehEUMHOxMRCXEBahrqugQ"
+        }, {
+          "placeId": "ChIJI9Q1GkMHOxMRVwDuYWLVEWI"
+        }, {
+          "placeId": "ChIJ63HRwkIHOxMRKbj7v15zIkM"
+        }, {
+          "placeId": "ChIJ2b6avkIHOxMRfTLfqxUvK7Y"
+        }, {
+          "placeId": "ChIJfbN3okIHOxMRHUh-kUpB4l8"
+        }, {
+          "placeId": "ChIJrfpUPWgHOxMRBTPh1AeKF_8"
+        }, {
+          "placeId": "ChIJ71TrvWgHOxMRV32otqEdLnE"
+        }, {
+          "placeId": "ChIJPa-qZW8HOxMRh_K-zArz9s4"
+        }, {
+          "placeId": "ChIJIenbg28HOxMREZY2aIeTCT0"
+        }, {
+          "placeId": "ChIJ4dYo-G8HOxMRt6RdtmGsMjM"
+        }, {
+          "placeId": "ChIJBy87A3oHOxMR4AN2c2GoHJk"
+        }, {
+          "placeId": "ChIJBcUn-HkHOxMRWOkNbUqlaj0"
+        }, {
+          "placeId": "ChIJ4_fm73kHOxMR2PUAkikngTE"
+        }, {
+          "placeId": "ChIJ8bngOXgHOxMRkgeLOK6lWvo"
+        }, {
+          "placeId": "ChIJ9Ys6OXgHOxMR91B5S3nQRTQ"
+        }, {
+          "placeId": "ChIJgy_VP3gHOxMRVT4s8UcAPSs"
+        }, {
+          "placeId": "ChIJgcxuE3gHOxMRQTyruMyvsWg"
+        }, {
+          "placeId": "ChIJKwV3n4IHOxMRMYps1vM5JG4"
+        }, {
+          "placeId": "ChIJxRMO64IHOxMRooRRgY8eQv0"
+        }, {
+          "placeId": "ChIJi4sO5oIHOxMRqZOMStUTXd4"
+        }, {
+          "placeId": "ChIJsXX944IHOxMRMPAFTzTTaLo"
+        }, {
+          "placeId": "ChIJV03lHYMHOxMR3Rae_SycHdI"
+        }, {
+          "placeId": "ChIJh59pGoMHOxMRzR6cnKxGpDo"
+        }, {
+          "placeId": "ChIJL8X7EoMHOxMR9e_GwXQBSG0"
+        }, {
+          "placeId": "ChIJOd0yboMHOxMRlCw5KQlT8tY"
+        }, {
+          "placeId": "ChIJe7migoQHOxMRtjbAMZ3rBpM"
+        }, {
+          "placeId": "ChIJsQBcjIQHOxMR9ETYGWkvHUQ"
+        }, {
+          "placeId": "ChIJV63K8IQHOxMRZLhhWDZlkqI"
+        }, {
+          "placeId": "ChIJ8fLeAYUHOxMRtb75ELip7pA"
+        }, {
+          "placeId": "ChIJu6gqBoUHOxMRmbD9tHB168Y"
+        }, {
+          "placeId": "ChIJ6-8vCoUHOxMRukY9uUtPIPk"
+        }, {
+          "placeId": "ChIJSZOedYUHOxMRdPL2EYUTEcc"
+        }, {
+          "placeId": "ChIJ2Y79d4UHOxMR632OaoX8Kvc"
+        }, {
+          "placeId": "ChIJrePKgYUHOxMRLzRqWFz7DYw"
+        }, {
+          "placeId": "ChIJCWUsf48HOxMRwYIFaEepPWg"
+        }, {
+          "placeId": "ChIJFXaZdo8HOxMRD3l4qmgT9S4"
+        }, {
+          "placeId": "ChIJZykMC48HOxMRg1H9zjlpoLs"
+        }, {
+          "placeId": "ChIJeyqJCY8HOxMR1Ls4_uaNV58"
+        }, {
+          "placeId": "ChIJmxMWCI8HOxMRDm2hSUBmNnA"
+        }, {
+          "placeId": "ChIJez-zB48HOxMRJcZ7DQWcIoM"
+        }, {
+          "placeId": "ChIJEYnZBY8HOxMRNWWuhWWHW1s"
+        }, {
+          "placeId": "ChIJs4JkBY8HOxMRvNuwz3GWfdw"
+        }, {
+          "placeId": "ChIJwxVOO48HOxMREHT9DBelzjM"
+        }, {
+          "placeId": "ChIJ_YET0ogHOxMR_RkuLmmcKB4"
+        }, {
+          "placeId": "ChIJM9oj2ogHOxMRqOtt2XLpgS0"
+        }, {
+          "placeId": "ChIJU9_c34gHOxMRxiPyxh35t3A"
+        }, {
+          "placeId": "ChIJxz8vHokHOxMRQFf3PhSzofA"
+        }, {
+          "placeId": "ChIJYUfEHYkHOxMRT29erhC9vqQ"
+        }, {
+          "placeId": "ChIJIwvdHIkHOxMR-OPolHLOkCI"
+        }, {
+          "placeId": "ChIJIWsqqIkHOxMRFU4Qwkcp44w"
+        }, {
+          "placeId": "ChIJ-zdLuokHOxMRidRrReUrwUY"
+        }, {
+          "placeId": "ChIJ5-tr2IkHOxMReaJbkL4Lu4s"
+        }, {
+          "placeId": "ChIJj_1SeyeoOxMR7WdXjOVfUmM"
+        }, {
+          "placeId": "ChIJvzycqieoOxMRa0-BpnNgBTM"
+        }, {
+          "placeId": "ChIJe736cCWoOxMRamC9vBx3O7E"
+        }, {
+          "placeId": "ChIJR_GJqjqoOxMRYQmmpsou0J8"
+        }, {
+          "placeId": "ChIJd1oevDCoOxMReZO3MT0Mi9Y"
+        }, {
+          "placeId": "ChIJWWqFtDCoOxMRlf-UZ0r-xj0"
+        }, {
+          "placeId": "ChIJeZFecTeoOxMRB3qKIcELhKk"
+        }, {
+          "placeId": "ChIJ2WUBnDeoOxMR8bg4td12Z50"
+        }, {
+          "placeId": "ChIJrRfgmzeoOxMRT13GbZctB1g"
+        }, {
+          "placeId": "ChIJEd6vkDeoOxMR4WT6ieQTcPQ"
+        }, {
+          "placeId": "ChIJtWe2dTioOxMRI1z4L1Malak"
+        }, {
+          "placeId": "ChIJaV3dmjioOxMRAVhX7eNhYNg"
+        }, {
+          "placeId": "ChIJpb_erjioOxMR33qhrP1S1Q4"
+        }, {
+          "placeId": "ChIJw906qzioOxMRPDL2SqYXz7Q"
+        }, {
+          "placeId": "ChIJoUXYqUCoOxMR010JpstsIN0"
+        }, {
+          "placeId": "ChIJqyfOWz-oOxMRjLCTPmHmIVM"
+        }, {
+          "placeId": "ChIJc53gLkeoOxMRqz3lfG3Z8cI"
+        }, {
+          "placeId": "ChIJA_0S0EaoOxMRtxqpYeEh8XE"
+        }, {
+          "placeId": "ChIJKzsYr0aoOxMR3gIxYl06eyo"
+        }, {
+          "placeId": "ChIJ-_1fUkKoOxMRxNyXDTtGpSo"
+        }, {
+          "placeId": "ChIJr1ZX02moOxMR5_LacoHZ1Ww"
+        }, {
+          "placeId": "ChIJhyBcxGioOxMR04uFgrktDec"
+        }, {
+          "placeId": "ChIJMVojz2ioOxMR8NgRs9Zk-sA"
+        }, {
+          "placeId": "ChIJCwisam-oOxMRkBMzRbcEXk8"
+        }, {
+          "placeId": "ChIJ3Un4dW-oOxMRuF4QASBVq1g"
+        }, {
+          "placeId": "ChIJodfZ8W-oOxMR3InRWonPNbg"
+        }, {
+          "placeId": "ChIJ-RQY-2-oOxMRn1MeF88RDp4"
+        }, {
+          "placeId": "ChIJE3sFC3qoOxMRAOSOuRFJTSI"
+        }, {
+          "placeId": "ChIJlbFe8neoOxMRMXH3O9wrL7U"
+        }, {
+          "placeId": "ChIJARfjEdinOxMR-hk6YpH-OtQ"
+        }, {
+          "placeId": "ChIJXyEi1NqnOxMRNijQLD2s-gM"
+        }, {
+          "placeId": "ChIJ9d0tK8WnOxMRxmF-gn0esTo"
+        }, {
+          "placeId": "ChIJ2SuJKcWnOxMRR0gf1ueGgzM"
+        }, {
+          "placeId": "ChIJH2o758SnOxMR-KqS9N-EPGU"
+        }, {
+          "placeId": "ChIJwzUzDMGnOxMRyumBp3wmE8E"
+        }, {
+          "placeId": "ChIJX4tdtsGnOxMROJmayNGqkS8"
+        }, {
+          "placeId": "ChIJEVymtOynOxMRvwZLOGgEAzA"
+        }, {
+          "placeId": "ChIJJSDlM5OnOxMRB0ipMdxKl0A"
+        }, {
+          "placeId": "ChIJ1-MML5OnOxMRymzFNCpLMjE"
+        }, {
+          "placeId": "ChIJJaulJ5OnOxMRA2UU0xktQtQ"
+        }, {
+          "placeId": "ChIJq6LO3pKnOxMR02PfWmRo6BE"
+        }, {
+          "placeId": "ChIJqcf6mY2nOxMR_2UBrOTdtX0"
+        }, {
+          "placeId": "ChIJqejVjYqnOxMRNanLrdaXMAE"
+        }, {
+          "placeId": "ChIJdxr0HiAIOxMRAhymZds258A"
+        }, {
+          "placeId": "ChIJyQV8mh8IOxMRB54kEkT_-MU"
+        }, {
+          "placeId": "ChIJRWjZoR8IOxMR4Ts6XorORXQ"
+        }, {
+          "placeId": "ChIJHUMe1xgIOxMRkDQKRTJbU4U"
+        }, {
+          "placeId": "ChIJN1DPwhgIOxMRspE63BdS43E"
+        }, {
+          "placeId": "ChIJ_Qh17RgIOxMR59VxnG7JlaQ"
+        }, {
+          "placeId": "ChIJGyDBjBgIOxMRBQr475QjicI"
+        }, {
+          "placeId": "ChIJ2fU5ihgIOxMRMHOMD4xkfRk"
+        }, {
+          "placeId": "ChIJS-XNYxgIOxMRU9f9FjC7vAQ"
+        }, {
+          "placeId": "ChIJIRThbhgIOxMRhZjaYV9awDw"
+        }, {
+          "placeId": "ChIJyXqTHBgIOxMR97jdcYhv1Ks"
+        }, {
+          "placeId": "ChIJuefb5RcIOxMR0EUgXsmO6DA"
+        }, {
+          "placeId": "ChIJSSyp5xcIOxMRpjsbx29lF1E"
+        }, {
+          "placeId": "ChIJOShr3RcIOxMRi4Cc6Zlri94"
+        }, {
+          "placeId": "ChIJsz43wxcIOxMRjJSYzr1P1o0"
+        }, {
+          "placeId": "ChIJ4fmCxBcIOxMRchMrGmOf1AY"
+        }, {
+          "placeId": "ChIJ_8djxBcIOxMRFnhQIrIbXvs"
+        }, {
+          "placeId": "ChIJM3nitxcIOxMRZGkG5o5CNMQ"
+        }, {
+          "placeId": "ChIJG0h_shcIOxMRJNIYz50Kv1A"
+        }, {
+          "placeId": "ChIJ86-1rBcIOxMRUtQdcw2QJAM"
+        }, {
+          "placeId": "ChIJn-zsVBYIOxMRmQ2UUXaPnto"
+        }, {
+          "placeId": "ChIJ31JHdxYIOxMRkJ75O_X62YU"
+        }, {
+          "placeId": "ChIJAe9w2xUIOxMRnPusuTchu_4"
+        }, {
+          "placeId": "ChIJ0ccm2xUIOxMRDKGrwSY4viw"
+        }, {
+          "placeId": "ChIJF2kA0BUIOxMR8Dgg5YT7xj8"
+        }, {
+          "placeId": "ChIJrxnT0RUIOxMR8sD9Ks2lGcc"
+        }, {
+          "placeId": "ChIJEd1XzhUIOxMRjXSsJALz2Zw"
+        }, {
+          "placeId": "ChIJtUAiyRUIOxMRXAtOYGXhA-0"
+        }, {
+          "placeId": "ChIJJ5cCxhUIOxMRuVGZMZiedpc"
+        }, {
+          "placeId": "ChIJp3MgxBUIOxMRhqzJo4cMC-8"
+        }, {
+          "placeId": "ChIJk4jjwxUIOxMRp49CRihl5qk"
+        }, {
+          "placeId": "ChIJs0HSwxUIOxMRUpJK2byMFtQ"
+        }, {
+          "placeId": "ChIJg-wLwhUIOxMRoxelkfysoAo"
+        }, {
+          "placeId": "ChIJ2WVa6RUIOxMRDEuxil434wI"
+        }, {
+          "placeId": "ChIJ1ai87RUIOxMRlh4hh5FLc0U"
+        }, {
+          "placeId": "ChIJtbfkjBUIOxMRWeWIeAA93as"
+        }, {
+          "placeId": "ChIJs9EZiBUIOxMRBVMEGaDo2MM"
+        }, {
+          "placeId": "ChIJn_dqLD4IOxMRitj0rFoh2v8"
+        }, {
+          "placeId": "ChIJx8myzT8IOxMRP9B27rdFJww"
+        }, {
+          "placeId": "ChIJuW7lxz8IOxMRIhjXfYPxl2U"
+        }, {
+          "placeId": "ChIJXaIrvD8IOxMRfIJz7gqbHUg"
+        }, {
+          "placeId": "ChIJz_qDlz8IOxMR_UW46M_y5Jw"
+        }, {
+          "placeId": "ChIJ0xaamz8IOxMRAYKkKUBXUi4"
+        }, {
+          "placeId": "ChIJAwh7gj8IOxMRBJ71-dnZqHc"
+        }, {
+          "placeId": "ChIJoxX2fT8IOxMRIEiUPvUf3Ow"
+        }, {
+          "placeId": "ChIJH3WsnEAIOxMRXCmfbUKVJK4"
+        }, {
+          "placeId": "ChIJ7wZRl0AIOxMRWqvmruASPbQ"
+        }, {
+          "placeId": "ChIJY0HuxUAIOxMRqIkslo8Rlv8"
+        }, {
+          "placeId": "ChIJucKP0UAIOxMRkJ-xIyYu1mQ"
+        }, {
+          "placeId": "ChIJg7GdKkcIOxMRxwAoB_Aaf40"
+        }, {
+          "placeId": "ChIJy3Ah0UYIOxMRwZLG4qXCzgQ"
+        }, {
+          "placeId": "ChIJ9xr4xEYIOxMR4jctHER-MyM"
+        }, {
+          "placeId": "ChIJFfaqwUYIOxMREX0BIFE8cjE"
+        }, {
+          "placeId": "ChIJZb4ElEYIOxMRD0LI2bK8ZBc"
+        }, {
+          "placeId": "ChIJ5ZRYhEYIOxMRmxF4rA26sns"
+        }, {
+          "placeId": "ChIJY8-8KkQIOxMRaojsmU91XKU"
+        }, {
+          "placeId": "ChIJVxuV00UIOxMRByJW0xbrDTw"
+        }, {
+          "placeId": "ChIJow7Hz0UIOxMRnZ2VG49gAC0"
+        }, {
+          "placeId": "ChIJkRDzxkUIOxMR99L1vdGJJOs"
+        }, {
+          "placeId": "ChIJicutuEUIOxMR_t99t2AaGSc"
+        }, {
+          "placeId": "ChIJS9rlvkUIOxMRuRblG_VGoPg"
+        }, {
+          "placeId": "ChIJ7baAvUUIOxMRQ6OrvcRyc0s"
+        }, {
+          "placeId": "ChIJ_fUenkUIOxMR0hSKTd4-Jrw"
+        }, {
+          "placeId": "ChIJfeCydkUIOxMR9t15zSc_rH0"
+        }, {
+          "placeId": "ChIJ5yrVcUUIOxMRcNLrFXGdsE4"
+        }, {
+          "placeId": "ChIJVcAoZkUIOxMRCPyUm7ybglI"
+        }, {
+          "placeId": "ChIJ92AAXUUIOxMRJiW6WJpoZ7g"
+        }, {
+          "placeId": "ChIJ9TlSXEUIOxMR_HTA0J_Q91w"
+        }, {
+          "placeId": "ChIJ7ynPXUUIOxMR4ZWM8wbQpyU"
+        }, {
+          "placeId": "ChIJ94enX0UIOxMR7d9NQGes0Uo"
+        }, {
+          "placeId": "ChIJfZiG808IOxMRSnUdSxp_nTk"
+        }, {
+          "placeId": "ChIJeavc7U8IOxMRjqy8hmuwNJ8"
+        }, {
+          "placeId": "ChIJ50oD7E8IOxMRZN3juM-saMI"
+        }, {
+          "placeId": "ChIJvczMw08IOxMRPiPuCqWk_WY"
+        }, {
+          "placeId": "ChIJZfRVzk8IOxMRxi23nszsXPY"
+        }, {
+          "placeId": "ChIJo_CfzU8IOxMR12kc9He34YQ"
+        }, {
+          "placeId": "ChIJ61OpMk4IOxMR0BPUJDGlvPg"
+        }, {
+          "placeId": "ChIJ_XRgLU4IOxMRHjh5zwLpm18"
+        }, {
+          "placeId": "ChIJP5qEL04IOxMRitHKFeyYV54"
+        }, {
+          "placeId": "ChIJLRtwJU4IOxMROdlFdtylU6k"
+        }, {
+          "placeId": "ChIJdaGRJE4IOxMRSXs2QKBWqIs"
+        }, {
+          "placeId": "ChIJWeZ-Ik4IOxMRpHTGlM9tVhQ"
+        }, {
+          "placeId": "ChIJqZFGGU4IOxMRLGx_1LxSicg"
+        }, {
+          "placeId": "ChIJqUE1HE4IOxMRsr-UL-CyI3E"
+        }, {
+          "placeId": "ChIJbeEQHU4IOxMRGg0D9dHXvjE"
+        }, {
+          "placeId": "ChIJHeclHU4IOxMRdEX56vLcwWU"
+        }, {
+          "placeId": "ChIJdYKfA04IOxMRYmwJ5y9Y-jo"
+        }, {
+          "placeId": "ChIJRbuoB04IOxMRen32I6ABF0U"
+        }, {
+          "placeId": "ChIJ4_HV4k0IOxMR7IXP2UrkoWE"
+        }, {
+          "placeId": "ChIJr_-25U0IOxMRtJ9-NxKQ76A"
+        }, {
+          "placeId": "ChIJ88F36U0IOxMReYG3nhPQrM0"
+        }, {
+          "placeId": "ChIJDwlc600IOxMRKVAbv-Ya9tc"
+        }, {
+          "placeId": "ChIJaaXskk0IOxMRLjvdDElh3fs"
+        }, {
+          "placeId": "ChIJrVy8jU0IOxMRQOQYyDSNW1k"
+        }, {
+          "placeId": "ChIJQ0dUiE0IOxMRomwNBYFM1Bs"
+        }, {
+          "placeId": "ChIJE-bYe1IIOxMRt-lUOQpsidY"
+        }, {
+          "placeId": "ChIJOWWaYlIIOxMR25CXHJyGelc"
+        }, {
+          "placeId": "ChIJKXKNF6sJOxMRWdEaeQFlaHQ"
+        }, {
+          "placeId": "ChIJp_4G36oJOxMRZX17rYrS8Nc"
+        }, {
+          "placeId": "ChIJRZJQwqoJOxMRBinAZwHf4LU"
+        }, {
+          "placeId": "ChIJ8zqOwaoJOxMRjBh5tGRnYxc"
+        }, {
+          "placeId": "ChIJqaRJwKoJOxMREsD7HIfeF_U"
+        }, {
+          "placeId": "ChIJFWcKwKoJOxMRDvZMfObExb4"
+        }, {
+          "placeId": "ChIJxzS1v6oJOxMReH7GxPxfsb4"
+        }, {
+          "placeId": "ChIJAxy_vaoJOxMRmGDF4oVlqyM"
+        }, {
+          "placeId": "ChIJNVXUCgAJOxMR81X5VUBAyGI"
+        }, {
+          "placeId": "ChIJE3vBRwAJOxMRGXI5O5qU708"
+        }, {
+          "placeId": "ChIJRSxWtgEJOxMRu6hkm-GC34E"
+        }, {
+          "placeId": "ChIJZbLhuAEJOxMRgVx7dY6A0yw"
+        }, {
+          "placeId": "ChIJ-QzzvwEJOxMRTxYLAs7FNXk"
+        }, {
+          "placeId": "ChIJEdSj7AEJOxMRpXHDSicuchs"
+        }, {
+          "placeId": "ChIJJUal8gEJOxMRvFGAG0ldWMk"
+        }, {
+          "placeId": "ChIJ-Qo6iwEJOxMR65CjeFXpiK0"
+        }, {
+          "placeId": "ChIJQ_tjIQIJOxMRw3jlAyAqv-k"
+        }, {
+          "placeId": "ChIJgWC9OwIJOxMRUmWMBfcTY0M"
+        }, {
+          "placeId": "ChIJgWC9OwIJOxMR0-fXhGfKWsc"
+        }, {
+          "placeId": "ChIJMVh6RgIJOxMR_fZ9TnY9rzs"
+        }, {
+          "placeId": "ChIJX2aoUAIJOxMR7oThWxHIwJQ"
+        }, {
+          "placeId": "ChIJs2RE-AIJOxMRopNpnMN9yEY"
+        }, {
+          "placeId": "ChIJqcel-wIJOxMRNWYRRFeo230"
+        }, {
+          "placeId": "ChIJ7TboKAMJOxMRHuU7FOnA9DM"
+        }, {
+          "placeId": "ChIJQZfOLAMJOxMRAhASzWBbV_g"
+        }, {
+          "placeId": "ChIJFUhsxBwJOxMR3bR-ywcleKM"
+        }, {
+          "placeId": "ChIJz18G6xwJOxMRJiqLl4HKdYw"
+        }, {
+          "placeId": "ChIJ60C87BwJOxMRbtRudfrYZII"
+        }, {
+          "placeId": "ChIJky9QjRwJOxMRnAnDtF4z75w"
+        }, {
+          "placeId": "ChIJ67ohjRwJOxMR4d2diXQPQzQ"
+        }, {
+          "placeId": "ChIJ62OFjBwJOxMRXWu0qaeGEoY"
+        }, {
+          "placeId": "ChIJn66xixwJOxMRwqNdyAh6SgM"
+        }, {
+          "placeId": "ChIJU8UfYhwJOxMRc8_ko5MYjco"
+        }, {
+          "placeId": "ChIJx4LocRwJOxMROsb_lUmz_Rg"
+        }, {
+          "placeId": "ChIJl65ACRwJOxMRkdirZD55uTw"
+        }, {
+          "placeId": "ChIJq0CgBxwJOxMR5StN7E7df-0"
+        }, {
+          "placeId": "ChIJw8We_xsJOxMR_ZYsIS2Aw4A"
+        }, {
+          "placeId": "ChIJeVB_URkJOxMRKLKIL1uzH5o"
+        }, {
+          "placeId": "ChIJnb3YRxkJOxMRVRse1lVNiBs"
+        }, {
+          "placeId": "ChIJAavGOxkJOxMRmQ1b_eOw4NA"
+        }, {
+          "placeId": "ChIJnzRwIxkJOxMRZ3dlUh1Y_ME"
+        }, {
+          "placeId": "ChIJD16YIxkJOxMRN23cYeBuhk4"
+        }, {
+          "placeId": "ChIJOzvrIxkJOxMR8zKRYb7DD_I"
+        }, {
+          "placeId": "ChIJo-0XJBkJOxMRPj8PCQ8TcKI"
+        }, {
+          "placeId": "ChIJjTjLKBkJOxMRXn2ZqMTrYaY"
+        }, {
+          "placeId": "ChIJFWCr1B4JOxMRQKUot84o1a0"
+        }, {
+          "placeId": "ChIJmfDU0B4JOxMR1yL4DYK_uQk"
+        }, {
+          "placeId": "ChIJvbfL2x4JOxMRl3qbXV6Tbg8"
+        }, {
+          "placeId": "ChIJ8XGR3B4JOxMR8mBgO6ye7mg"
+        }, {
+          "placeId": "ChIJCSjxwR4JOxMRo0_ARcTPfY0"
+        }, {
+          "placeId": "ChIJQU8blR4JOxMRgZpyYgGdafY"
+        }, {
+          "placeId": "ChIJD6fJlh4JOxMRsa43p0aClTo"
+        }, {
+          "placeId": "ChIJH13amh4JOxMRa1iXMVh2934"
+        }, {
+          "placeId": "ChIJ7xlEhh4JOxMR53cWRmarXzI"
+        }, {
+          "placeId": "ChIJOxu7ZR4JOxMRwi2POy7PMXk"
+        }, {
+          "placeId": "ChIJH0GMbB4JOxMRYUpJLB5IXRA"
+        }, {
+          "placeId": "ChIJw8huEx4JOxMRw5kqbaaMF4U"
+        }, {
+          "placeId": "ChIJQ2WtFh4JOxMR4YRPV1GwNP4"
+        }, {
+          "placeId": "ChIJrZ3SEB4JOxMRGJm4O3UmYT0"
+        }, {
+          "placeId": "ChIJoUmIBh4JOxMRASpnKmYoREw"
+        }, {
+          "placeId": "ChIJAXZu-R0JOxMR4B49tQW2F_Q"
+        }, {
+          "placeId": "ChIJdQUy-B0JOxMRHINGvK3Eie8"
+        }, {
+          "placeId": "ChIJW31DCOIIOxMRkt9_faqCgzM"
+        }, {
+          "placeId": "ChIJ3_TVDeIIOxMRqNCfZg1b1hA"
+        }, {
+          "placeId": "ChIJhaSPcuIIOxMRslFuv64upbw"
+        }, {
+          "placeId": "ChIJ7xUnceIIOxMRhHM65iXd_7I"
+        }, {
+          "placeId": "ChIJyc2QfuIIOxMRmAX9x4YqwIA"
+        }, {
+          "placeId": "ChIJf2ZNg-IIOxMRrh5O6fQXex8"
+        }, {
+          "placeId": "ChIJjRYqn-IIOxMReMW-gqAumaM"
+        }, {
+          "placeId": "ChIJUXruruIIOxMRp8qCnlgmN6k"
+        }, {
+          "placeId": "ChIJhV1XRP0IOxMR7S1FBOCu458"
+        }, {
+          "placeId": "ChIJyaQXa_0IOxMRv9ITdGDup3k"
+        }, {
+          "placeId": "ChIJDR-zMPwIOxMRU9VDAQ9jBHc"
+        }, {
+          "placeId": "ChIJW4JFOvwIOxMREdzitZ-RV5A"
+        }, {
+          "placeId": "ChIJYZ2bJPwIOxMRZp232egcPJA"
+        }, {
+          "placeId": "ChIJ48ZXvf4IOxMRDn88G0uFjDc"
+        }, {
+          "placeId": "ChIJVay9Lf8IOxMRscYj-uzdM_s"
+        }, {
+          "placeId": "ChIJn82zrfgIOxMRTubSDaxfTEY"
+        }, {
+          "placeId": "ChIJHy-CAVYIOxMRYj_cns2eIZY"
+        }, {
+          "placeId": "ChIJFZIcc1YIOxMRN4TC2ny5408"
+        }, {
+          "placeId": "ChIJ2-2vfFYIOxMRr316q2AHYgE"
+        }, {
+          "placeId": "ChIJaUw7iVYIOxMRcazkOklMY8I"
+        }, {
+          "placeId": "ChIJcbVijVYIOxMRsa7SxHT3oUM"
+        }, {
+          "placeId": "ChIJmUyV5lYIOxMR5H1kEVMSc6Q"
+        }, {
+          "placeId": "ChIJvap4GFcIOxMRKT9Ojav-nPI"
+        }, {
+          "placeId": "ChIJ99VrPVcIOxMR3OjFCbye3M0"
+        }, {
+          "placeId": "ChIJJdvVPVcIOxMRiH5F2HDBZAk"
+        }, {
+          "placeId": "ChIJFQevQFcIOxMReuDpmUwC7zE"
+        }, {
+          "placeId": "ChIJhUs7RFcIOxMRYs4oJOjBgdo"
+        }, {
+          "placeId": "ChIJ_9oCRVcIOxMRwO5nxqflCNY"
+        }, {
+          "placeId": "ChIJH8ZiV1cIOxMR4kD5Tb3PTLg"
+        }, {
+          "placeId": "ChIJ18kfwFkIOxMRg-8Jy2xj-9Y"
+        }, {
+          "placeId": "ChIJoeDOvFkIOxMR37KbcJA0Usg"
+        }, {
+          "placeId": "ChIJ2eSuolkIOxMRcC-MAukSNCQ"
+        }, {
+          "placeId": "ChIJy67AjVkIOxMRGExUOXh0J9k"
+        }, {
+          "placeId": "ChIJmRF0IFoIOxMROqmNDrowFdE"
+        }, {
+          "placeId": "ChIJA8wvGVoIOxMR3xpc37VvvWU"
+        }, {
+          "placeId": "ChIJmSd4GloIOxMRcebjh80XwOI"
+        }, {
+          "placeId": "ChIJo2JIEFoIOxMRoLy2wK6uz0Q"
+        }, {
+          "placeId": "ChIJq-XfDVoIOxMRCcCxhfy6K8w"
+        }, {
+          "placeId": "ChIJfdmgDFoIOxMRp9aukkCx0vY"
+        }, {
+          "placeId": "ChIJkxPndFoIOxMR4ekRpTF3lzk"
+        }, {
+          "placeId": "ChIJDUuUdVoIOxMRgpIH8Fwz2rk"
+        }, {
+          "placeId": "ChIJEUe8nVAIOxMRsCXgfCVciJU"
+        }, {
+          "placeId": "ChIJ2bKxnFAIOxMRTLtHEsx10Dc"
+        }, {
+          "placeId": "ChIJweLAhFAIOxMRfon3id6W-OY"
+        }, {
+          "placeId": "ChIJdwvmhFAIOxMReivsLNjxF_0"
+        }, {
+          "placeId": "ChIJKYJHhFAIOxMR_4g8GEXz54E"
+        }, {
+          "placeId": "ChIJDykZh1AIOxMRZS7heRCPMWg"
+        }, {
+          "placeId": "ChIJ5VUUfFAIOxMRUPakJyMF83A"
+        }, {
+          "placeId": "ChIJ-U2leVAIOxMRQRTRtbVXxto"
+        }, {
+          "placeId": "ChIJWyogg1oIOxMRLaIadzbUEhQ"
+        }],
+        "distanceMeters": 20392.441214268903
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 409082544,
+          "lngE7": 142759779,
+          "accuracyMeters": 56,
+          "timestamp": "2019-02-23T00:22:40.671Z"
+        }, {
+          "latE7": 408505949,
+          "lngE7": 142729585,
+          "accuracyMeters": 35,
+          "timestamp": "2019-02-23T00:36:20.488Z"
+        }, {
+          "latE7": 408333259,
+          "lngE7": 142390202,
+          "accuracyMeters": 24,
+          "timestamp": "2019-02-23T00:45:58.933Z"
+        }, {
+          "latE7": 408332132,
+          "lngE7": 142212183,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-23T00:51:33.360Z"
+        }, {
+          "latE7": 408446063,
+          "lngE7": 142457578,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-23T00:59:26.086Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 408433589,
+          "longitudeE7": 142489893,
+          "accuracyMetres": 36
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-23T01:01:18.291Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 54.01947
+      },
+      "duration": {
+        "startTimestamp": "2019-02-23T01:01:26.249Z",
+        "endTimestamp": "2019-02-24T08:35:17.994Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408439912,
+      "centerLngE7": 142481481,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 36.164654
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 3.8851745
+      }, {
+        "latitudeE7": 408440057,
+        "longitudeE7": 142479855,
+        "placeId": "ChIJ28x7Y1oIOxMRUpc7_Rn6a7U",
+        "address": "Via Giuseppe Simonelli, 16\n80134 Napoli NA\nItalia",
+        "name": "Via Giuseppe Simonelli, 16",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 0.56429344,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.50318843
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 49,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408433541,
+        "longitudeE7": 142490005,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408495020,
+        "longitudeE7": 142326090,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T08:35:17.994Z",
+        "endTimestamp": "2019-02-24T09:04:10.927Z"
+      },
+      "distance": 1930,
+      "activityType": "IN_SUBWAY",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 92.87386826588613
+      }, {
+        "activityType": "WALKING",
+        "probability": 5.544225183501947
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 0.6258289239804478
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 408424948,
+          "longitudeE7": 142489206,
+          "placeId": "ChIJOSg_CVAIOxMRmk2pdbC2dPQ",
+          "address": "80133 Napoli NA\nItalia",
+          "name": "Toledo"
+        }, {
+          "latitudeE7": 408506051,
+          "longitudeE7": 142308325,
+          "placeId": "ChIJjwNEKvIIOxMR8XHr9OkgyeQ",
+          "address": "80128 Napoli NA\nItalia",
+          "name": "Medaglie d\u0027Oro"
+        }],
+        "name": "L1",
+        "hexRgbColor": "F2D03B",
+        "linePlaceId": "ChIJlxX48XsIOxMRthZd71OpSJI",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408504920,
+          "lngE7": 142307988,
+          "accuracyMeters": 60,
+          "timestamp": "2019-02-24T09:02:02.613Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 1914.7138175519003
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408495020,
+        "longitudeE7": 142326090,
+        "placeId": "ChIJL-szQ_EIOxMRPSt1DmYqICk",
+        "address": "Via Guglielmo Sagrera, 11/19\n80129 Napoli NA\nItalia",
+        "name": "Viktoria Platz",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 47.250893
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T09:04:10.927Z",
+        "endTimestamp": "2019-02-24T09:14:32.287Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 408495617,
+      "centerLngE7": 142325933,
+      "visitConfidence": 90,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408489606,
+        "longitudeE7": 142323190,
+        "placeId": "ChIJK3y9DPEIOxMRHagnbHflMy8",
+        "address": "Via Mario Fiore, 6\n80129 Napoli NA\nItalia",
+        "name": "Ospedale Santobono - A.O.R.N. Santobono-Pausilipon",
+        "locationConfidence": 16.262613
+      }, {
+        "latitudeE7": 408495629,
+        "longitudeE7": 142326086,
+        "placeId": "ChIJ6b25XPEIOxMRAEuRH0ny3B0",
+        "address": "Via Guglielmo Sagrera, 13\n80129 Napoli NA\nItalia",
+        "name": "Via Guglielmo Sagrera, 13",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "locationConfidence": 8.819849
+      }, {
+        "latitudeE7": 408506660,
+        "longitudeE7": 142332588,
+        "placeId": "ChIJf1-O8PMIOxMRXYdApvRDEP4",
+        "address": "Piazza dell\u0027Immacolata, 7\n80127 Napoli NA\nItalia",
+        "name": "Delight Bar Caffè",
+        "locationConfidence": 0.71355456
+      }, {
+        "latitudeE7": 408502539,
+        "longitudeE7": 142335424,
+        "placeId": "ChIJ6fEm__MIOxMRLa9nCkBg_iA",
+        "address": "Piazza dell\u0027Immacolata, 31\n80129 Napoli NA\nItalia",
+        "name": "Punto Convenienza",
+        "locationConfidence": 0.4437636
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 45,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408495729,
+        "longitudeE7": 142325011,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408991402,
+        "longitudeE7": 142577569,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T09:14:32.287Z",
+        "endTimestamp": "2019-02-24T10:14:28.148Z"
+      },
+      "distance": 20474,
+      "activityType": "IN_PASSENGER_VEHICLE",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 66.3987370300134
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 19.58411171463639
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 9.140405030064942
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408495597,
+          "lngE7": 142325181
+        }, {
+          "latE7": 408482322,
+          "lngE7": 142266550
+        }, {
+          "latE7": 408443450,
+          "lngE7": 142252569
+        }, {
+          "latE7": 408364028,
+          "lngE7": 141978034
+        }, {
+          "latE7": 408192024,
+          "lngE7": 141789016
+        }, {
+          "latE7": 408656044,
+          "lngE7": 142486867
+        }, {
+          "latE7": 408989868,
+          "lngE7": 142574615
+        }],
+        "source": "INFERRED",
+        "roadSegment": [{
+          "placeId": "ChIJQ-x9XPEIOxMRt2kR9jhpq0A"
+        }, {
+          "placeId": "ChIJE5GcWfEIOxMRTwWpkm7DP_Y"
+        }, {
+          "placeId": "ChIJ5a7gV_EIOxMRpEKMA2Y3DRg"
+        }, {
+          "placeId": "ChIJwSHU_PMIOxMRBGJJZxnq2rk"
+        }, {
+          "placeId": "ChIJgdqP4fMIOxMRPsJbMQt8gN0"
+        }, {
+          "placeId": "ChIJMRc-4PMIOxMR1jtQ4nyITdw"
+        }, {
+          "placeId": "ChIJ3cgd3vMIOxMRmpgKyaZjQEQ"
+        }, {
+          "placeId": "ChIJP6o12vMIOxMRQA0ada9hrT8"
+        }, {
+          "placeId": "ChIJAWHq0_MIOxMRl6hr21kiouk"
+        }, {
+          "placeId": "ChIJ1f7O0vMIOxMRN_r1-HygS78"
+        }, {
+          "placeId": "ChIJc-w1LPIIOxMRQaGpfaB4304"
+        }, {
+          "placeId": "ChIJEfgVKfIIOxMRdyULr0sY7bw"
+        }, {
+          "placeId": "ChIJadXEKfIIOxMRYvPJU-g4olQ"
+        }, {
+          "placeId": "ChIJoRlGh_EIOxMRmxbscd57W5g"
+        }, {
+          "placeId": "ChIJ-WRzhfEIOxMRc-YxiLredc4"
+        }, {
+          "placeId": "ChIJJbbClfEIOxMRBuT6lDsV_Wg"
+        }, {
+          "placeId": "ChIJt2Ojx_EIOxMRNEDBo8isNTQ"
+        }, {
+          "placeId": "ChIJ61g8zPEIOxMRESmRQFvTjLA"
+        }, {
+          "placeId": "ChIJJR05zfEIOxMR0exqyVD8NTo"
+        }, {
+          "placeId": "ChIJHfWxMvAIOxMRhQg7elR7VQg"
+        }, {
+          "placeId": "ChIJw-MWLfAIOxMRC6dR6zzv37A"
+        }, {
+          "placeId": "ChIJ3UFfLPAIOxMR7YSwTA50E48"
+        }, {
+          "placeId": "ChIJlzMILPAIOxMRQdhi_QGH5QM"
+        }, {
+          "placeId": "ChIJQ0LuK_AIOxMRpjXWlr_5EV8"
+        }, {
+          "placeId": "ChIJFZvf1e8IOxMR7sxooSG-nmg"
+        }, {
+          "placeId": "ChIJSben0e8IOxMR6sdArUkNdVE"
+        }, {
+          "placeId": "ChIJp4kJzu8IOxMRAiKyuZ08u-s"
+        }, {
+          "placeId": "ChIJXflLyu8IOxMR6wIodGONpFE"
+        }, {
+          "placeId": "ChIJ4ycNt-8IOxMRhBjKnI3-hzw"
+        }, {
+          "placeId": "ChIJ718Nue8IOxMRcgGH_NQoFHc"
+        }, {
+          "placeId": "ChIJE_Y_ue8IOxMRGPmnkVlUBfI"
+        }, {
+          "placeId": "ChIJnQKJle8IOxMRpJizzXK18z0"
+        }, {
+          "placeId": "ChIJM8xMjO8IOxMRxoRZYQ8IQM8"
+        }, {
+          "placeId": "ChIJ5QLQZuUIOxMR1rjg6qeyfSA"
+        }, {
+          "placeId": "ChIJf5-BaeUIOxMRiUVBplJbeJY"
+        }, {
+          "placeId": "ChIJZQHpEuUIOxMRi2TKq11l6Is"
+        }, {
+          "placeId": "ChIJ7YEgCeUIOxMR5GH-yul2wZQ"
+        }, {
+          "placeId": "ChIJO4oWCOUIOxMRmTKYiDJ-OsU"
+        }, {
+          "placeId": "ChIJAdzIqeUIOxMRTahoqDJFIYw"
+        }, {
+          "placeId": "ChIJZVZAVeQIOxMRX9Db_7YWYjM"
+        }, {
+          "placeId": "ChIJtXa0UeQIOxMRSrVRiPiCnWY"
+        }, {
+          "placeId": "ChIJUZLYOuQIOxMRjoTpCL-88ls"
+        }, {
+          "placeId": "ChIJVUgJnuYIOxMR-BxGf-31vV0"
+        }, {
+          "placeId": "ChIJs2mtl-YIOxMRIbaZwt0gpTk"
+        }, {
+          "placeId": "ChIJZfYrwOYIOxMR9xCEryBzNmM"
+        }, {
+          "placeId": "ChIJZfYrwOYIOxMRk5tGcbHmC_M"
+        }, {
+          "placeId": "ChIJgwj0wuYIOxMRXXSwSPbAArQ"
+        }, {
+          "placeId": "ChIJ1-bCwuYIOxMRVcM6Q2gv13E"
+        }, {
+          "placeId": "ChIJmw7Z2-YIOxMRhjDCe8M1qXQ"
+        }, {
+          "placeId": "ChIJvftAKOcIOxMRohdXqeQVn1M"
+        }, {
+          "placeId": "ChIJHyoFKecIOxMRFaQgyWipySw"
+        }, {
+          "placeId": "ChIJU_lQL-cIOxMR0MvtTlAewkY"
+        }, {
+          "placeId": "ChIJ53LUvecIOxMR90AksYWe3Sg"
+        }, {
+          "placeId": "ChIJRyVBFecIOxMR7E5bzJ__qe8"
+        }, {
+          "placeId": "ChIJLW13QucIOxMREgo38_8sjDA"
+        }, {
+          "placeId": "ChIJQXPEj90IOxMRnaFAD-r_BnY"
+        }, {
+          "placeId": "ChIJ_ZeplN0IOxMR4hYlTYG9gxw"
+        }, {
+          "placeId": "ChIJc8KL6d0IOxMRBW8e0dbBfhU"
+        }, {
+          "placeId": "ChIJqX0k3d0IOxMRAfiUBpk96Yw"
+        }, {
+          "placeId": "ChIJN6LqWd4IOxMRzYBCpLgZngw"
+        }, {
+          "placeId": "ChIJ7fNDQSgJOxMRJCveJGF4Cs8"
+        }, {
+          "placeId": "ChIJr9hqsikJOxMRHAmOF-2hT2I"
+        }, {
+          "placeId": "ChIJgwQloikJOxMRlOMxQ5XJfIY"
+        }, {
+          "placeId": "ChIJCyiTeCkJOxMR-GVsqyzIf9o"
+        }, {
+          "placeId": "ChIJE73P1isJOxMR8iNddAvx0vY"
+        }, {
+          "placeId": "ChIJVVOKxisJOxMRan_jTeoRgeo"
+        }, {
+          "placeId": "ChIJh4bGTSsJOxMR0rHb4RjMQB8"
+        }, {
+          "placeId": "ChIJrYmxstQOOxMRMmCcOoyu94Y"
+        }, {
+          "placeId": "ChIJma31rdQOOxMRpiodw7f_8PA"
+        }, {
+          "placeId": "ChIJqZUkpNQOOxMRpoWPnTdbAQE"
+        }, {
+          "placeId": "ChIJr3pRodQOOxMRlq8z2sZXXwE"
+        }, {
+          "placeId": "ChIJcWEJodQOOxMRdOS39aDGq54"
+        }, {
+          "placeId": "ChIJiRp1ZdMOOxMRbZ0es4Otbp8"
+        }, {
+          "placeId": "ChIJncOdEdMOOxMRyu61E-02xUE"
+        }, {
+          "placeId": "ChIJM6sS69IOOxMRg4pQcMZJ6ZY"
+        }, {
+          "placeId": "ChIJYzYoj9IOOxMRok2PcOBrYFY"
+        }, {
+          "placeId": "ChIJDRgkhtIOOxMRlzHbmOmN6zE"
+        }, {
+          "placeId": "ChIJX8WBfdIOOxMRkur8g3qIV_g"
+        }, {
+          "placeId": "ChIJe9wzfNIOOxMR9pir8Xka_dY"
+        }, {
+          "placeId": "ChIJITqT7s0OOxMRRN5jjYTkWqc"
+        }, {
+          "placeId": "ChIJMSG26M0OOxMRMYL0aZJoY0A"
+        }, {
+          "placeId": "ChIJISk75s0OOxMRJgsXX2B_qlg"
+        }, {
+          "placeId": "ChIJdSIN580OOxMRhVFGDrD4UlI"
+        }, {
+          "placeId": "ChIJ_ZhB3s0OOxMRrcAQGo-vJqE"
+        }, {
+          "placeId": "ChIJf_Jtds4OOxMRtL9NtK9jyzE"
+        }, {
+          "placeId": "ChIJy3Ri5M4OOxMRssGFwsty3pU"
+        }, {
+          "placeId": "ChIJiaJVOs8OOxMR-CyN82UiKjA"
+        }, {
+          "placeId": "ChIJlRstSs8OOxMR8HixjtVSjPc"
+        }, {
+          "placeId": "ChIJBZFwrcgOOxMRoqtdysNPAho"
+        }, {
+          "placeId": "ChIJRQpUqMgOOxMRbtwGXR7sofw"
+        }, {
+          "placeId": "ChIJx7QfHcYOOxMRJw6rEowJ72I"
+        }, {
+          "placeId": "ChIJnxacGcYOOxMRbfM7ZQGPuvI"
+        }, {
+          "placeId": "ChIJl4cvP8YOOxMRfB6n3m4myUs"
+        }, {
+          "placeId": "ChIJM8cgUsYOOxMRBU9HWJ59rzg"
+        }, {
+          "placeId": "ChIJt6_dAMcOOxMR_LR4qvqUxRI"
+        }, {
+          "placeId": "ChIJj4cYEMcOOxMRrV7fnucy-8M"
+        }, {
+          "placeId": "ChIJqXRhFMcOOxMRc45yjS32-mk"
+        }, {
+          "placeId": "ChIJaY5zZccOOxMRZI0WMlBQU1M"
+        }, {
+          "placeId": "ChIJbV5Pg7gOOxMRW3sY25sO1f0"
+        }, {
+          "placeId": "ChIJV2hLm7gOOxMRJ3-giIJ9uvg"
+        }, {
+          "placeId": "ChIJcd3ehLgOOxMRdVigch08ERs"
+        }, {
+          "placeId": "ChIJT9PojrgOOxMRIkBOq-fWzAE"
+        }, {
+          "placeId": "ChIJcSiX9LgOOxMRgOoOJObHtmU"
+        }, {
+          "placeId": "ChIJB8b_9rgOOxMRvVqg01sg9fo"
+        }, {
+          "placeId": "ChIJkUmM-LgOOxMRUUJkWRyEw_s"
+        }, {
+          "placeId": "ChIJV1ZkVbgOOxMRW2viCwDuCjQ"
+        }, {
+          "placeId": "ChIJDRZIqrkOOxMRZ7dnYYdKWLY"
+        }, {
+          "placeId": "ChIJG32uqbkOOxMRwC64w6_3xVk"
+        }, {
+          "placeId": "ChIJ84UPqLkOOxMREG0UHE2rXgI"
+        }, {
+          "placeId": "ChIJu0d5qLkOOxMRiQMayELbtvI"
+        }, {
+          "placeId": "ChIJMTq5qLkOOxMRvdKpU6rEJZ0"
+        }, {
+          "placeId": "ChIJHZHfq7kOOxMRu35M8JifYgI"
+        }, {
+          "placeId": "ChIJdywJVbgOOxMRAnqxBSbqYJ0"
+        }, {
+          "placeId": "ChIJ4dDUV7gOOxMRhgeShXHQhSU"
+        }, {
+          "placeId": "ChIJnR1J9rgOOxMRzi85PSTi7DU"
+        }, {
+          "placeId": "ChIJnTTd9LgOOxMR0vAEEbsI_E0"
+        }, {
+          "placeId": "ChIJ3eHQjrgOOxMRK2fuWOmcoTw"
+        }, {
+          "placeId": "ChIJnTpFhLgOOxMR1JsZTkBMNgY"
+        }, {
+          "placeId": "ChIJfUkLhLgOOxMR89EbCWAZVHc"
+        }, {
+          "placeId": "ChIJbUmWg7gOOxMRitsAsBQxSvE"
+        }, {
+          "placeId": "ChIJM3cMg7gOOxMRVOd08cI0iNU"
+        }, {
+          "placeId": "ChIJaY5zZccOOxMRZY0WMlBQU1M"
+        }, {
+          "placeId": "ChIJqXRhFMcOOxMRco5yjS32-mk"
+        }, {
+          "placeId": "ChIJj4cYEMcOOxMRrF7fnucy-8M"
+        }, {
+          "placeId": "ChIJt6_dAMcOOxMR_bR4qvqUxRI"
+        }, {
+          "placeId": "ChIJM8cgUsYOOxMRBE9HWJ59rzg"
+        }, {
+          "placeId": "ChIJl4cvP8YOOxMRfR6n3m4myUs"
+        }, {
+          "placeId": "ChIJnxacGcYOOxMRbPM7ZQGPuvI"
+        }, {
+          "placeId": "ChIJx7QfHcYOOxMRJg6rEowJ72I"
+        }, {
+          "placeId": "ChIJRQpUqMgOOxMRb9wGXR7sofw"
+        }, {
+          "placeId": "ChIJBZFwrcgOOxMRo6tdysNPAho"
+        }, {
+          "placeId": "ChIJlRstSs8OOxMR8XixjtVSjPc"
+        }, {
+          "placeId": "ChIJiaJVOs8OOxMR-SyN82UiKjA"
+        }, {
+          "placeId": "ChIJy3Ri5M4OOxMRs8GFwsty3pU"
+        }, {
+          "placeId": "ChIJf_Jtds4OOxMRtb9NtK9jyzE"
+        }, {
+          "placeId": "ChIJ_ZhB3s0OOxMRrMAQGo-vJqE"
+        }, {
+          "placeId": "ChIJdSIN580OOxMRhFFGDrD4UlI"
+        }, {
+          "placeId": "ChIJISk75s0OOxMRJwsXX2B_qlg"
+        }, {
+          "placeId": "ChIJMSG26M0OOxMRMIL0aZJoY0A"
+        }, {
+          "placeId": "ChIJITqT7s0OOxMRRd5jjYTkWqc"
+        }, {
+          "placeId": "ChIJe9wzfNIOOxMR95ir8Xka_dY"
+        }, {
+          "placeId": "ChIJm6p3h9IOOxMRSH3gAfPkOHY"
+        }, {
+          "placeId": "ChIJi87ahdIOOxMR9CAxEGwLsKw"
+        }, {
+          "placeId": "ChIJbbkqg9IOOxMR4mgSunNwifE"
+        }, {
+          "placeId": "ChIJnQcXY80OOxMRvDdpH0R5Tcg"
+        }, {
+          "placeId": "ChIJN9FtZc0OOxMRG0FIoru8Hog"
+        }, {
+          "placeId": "ChIJ1RO7bs0OOxMRnVERDSj6-nE"
+        }, {
+          "placeId": "ChIJdYrYac0OOxMRE7Fc09g3gdk"
+        }, {
+          "placeId": "ChIJtfY_Q80OOxMRlfYnk-J_5oE"
+        }, {
+          "placeId": "ChIJTbuPXM0OOxMR7SHZ-gOiQ7M"
+        }, {
+          "placeId": "ChIJdyjSXc0OOxMRbZWynF762TM"
+        }, {
+          "placeId": "ChIJfx6BYM0OOxMRDbOAPZwoQgg"
+        }, {
+          "placeId": "ChIJzynLn9IOOxMRllNbP50pIkw"
+        }, {
+          "placeId": "ChIJASazmdIOOxMRJenmo_BshlU"
+        }, {
+          "placeId": "ChIJCwZxltIOOxMRgFvuVH495lE"
+        }, {
+          "placeId": "ChIJ96q8ldIOOxMR0v4soHRm5J4"
+        }, {
+          "placeId": "ChIJJdw2ldIOOxMRtylsXdgnqho"
+        }, {
+          "placeId": "ChIJRT405tIOOxMR2pUnjT9vQs0"
+        }, {
+          "placeId": "ChIJXQRvHtMOOxMR6m77eWWIj1Q"
+        }, {
+          "placeId": "ChIJDeP2GdMOOxMR7hrbUGy7S-s"
+        }, {
+          "placeId": "ChIJI6ufE9MOOxMRBC-AxpO3Z1U"
+        }, {
+          "placeId": "ChIJ3Z3ubNMOOxMRoLQ3p1amHVI"
+        }, {
+          "placeId": "ChIJ7RGEaNMOOxMRNDPDIpTTk7s"
+        }, {
+          "placeId": "ChIJ63WuWNMOOxMRMSfl30lZy-Y"
+        }, {
+          "placeId": "ChIJg0LfqNQOOxMRMltOT5q1zd4"
+        }, {
+          "placeId": "ChIJnR90q9QOOxMRCy6hHXk_Vio"
+        }, {
+          "placeId": "ChIJu_QgqiwJOxMRHltSa_ANuBQ"
+        }, {
+          "placeId": "ChIJ_yUBeSkJOxMRASwL8te6DY0"
+        }, {
+          "placeId": "ChIJp-SeoSkJOxMR7YN5B0q48G8"
+        }, {
+          "placeId": "ChIJO9-RrSkJOxMRux-rgXeEF_M"
+        }, {
+          "placeId": "ChIJr5LrQygJOxMRze-OEZ0rI-4"
+        }, {
+          "placeId": "ChIJ52Txdt4IOxMRlJSdm0YalUQ"
+        }, {
+          "placeId": "ChIJpfJj3d0IOxMRp6PRTTDzklk"
+        }, {
+          "placeId": "ChIJt2_h690IOxMRyzbYhUXWmUU"
+        }, {
+          "placeId": "ChIJwS6cf90IOxMR9AoWlHqKTgA"
+        }, {
+          "placeId": "ChIJj7tCfd0IOxMRORXMptri5uk"
+        }, {
+          "placeId": "ChIJ87MhVN0IOxMREH2tWGRi3Cw"
+        }, {
+          "placeId": "ChIJl3N6lsIIOxMRVL46NV3BWvs"
+        }, {
+          "placeId": "ChIJZVNDXcIIOxMRYKEMWw-mN1I"
+        }, {
+          "placeId": "ChIJbSviUOoIOxMRwpiXoPf7_Qg"
+        }, {
+          "placeId": "ChIJSf3kspQIOxMR2BRx7dwnt98"
+        }, {
+          "placeId": "ChIJa2PmrZQIOxMRFK0UDVwq3nk"
+        }, {
+          "placeId": "ChIJx342kI4IOxMRgELqdPeb8dM"
+        }, {
+          "placeId": "ChIJbXevx44IOxMRg0IN3B1smBg"
+        }, {
+          "placeId": "ChIJhQL85IgIOxMRS5Vy--Nur2U"
+        }, {
+          "placeId": "ChIJEQAw5YgIOxMRmYqXSaf2aQs"
+        }, {
+          "placeId": "ChIJJRG58IgIOxMRQrgutCjSg_k"
+        }, {
+          "placeId": "ChIJqzrBXYgIOxMRcngHbWnPP-Q"
+        }, {
+          "placeId": "ChIJC42AbIgIOxMRoU2h3vCvY7c"
+        }, {
+          "placeId": "ChIJ2WJcEogIOxMRKd3tevOBgtY"
+        }, {
+          "placeId": "ChIJwT_FBYgIOxMRcRZKIOwdU1o"
+        }, {
+          "placeId": "ChIJJywfAIgIOxMRL9AZRT2_1Mg"
+        }, {
+          "placeId": "ChIJq8AcSH0IOxMR5XM5fBasf3o"
+        }, {
+          "placeId": "ChIJUY5aIn0IOxMRAoWwbApmr7w"
+        }, {
+          "placeId": "ChIJuX0tIH0IOxMREVRIAiZowNY"
+        }, {
+          "placeId": "ChIJ1X8LJH0IOxMRCwIWV-rOZBY"
+        }, {
+          "placeId": "ChIJi0-oPn0IOxMRrhvWmjx2g0o"
+        }, {
+          "placeId": "ChIJKbhKrX0IOxMRAgDcH3MjFZA"
+        }, {
+          "placeId": "ChIJ9-02OXwIOxMRI7PilY0wxfY"
+        }, {
+          "placeId": "ChIJyZXuFXwIOxMRh6shAWQbyY8"
+        }, {
+          "placeId": "ChIJHaMea3wIOxMRPAyBAYON7xg"
+        }, {
+          "placeId": "ChIJ_Yr4h3sIOxMRxXOU5uDYCCA"
+        }, {
+          "placeId": "ChIJX1Owl3sIOxMR8kgpHkDluYw"
+        }, {
+          "placeId": "ChIJR9NZunsIOxMRYIg_3jT7rTI"
+        }, {
+          "placeId": "ChIJT-5LdXsIOxMREXCPJJDqGPc"
+        }, {
+          "placeId": "ChIJNzPhc3sIOxMRPnpRT7aJNpk"
+        }, {
+          "placeId": "ChIJDUGKDHsIOxMRWz124j2z8ZA"
+        }, {
+          "placeId": "ChIJ_93urHsIOxMRW1V3POgJ6Tk"
+        }, {
+          "placeId": "ChIJa4iwqnsIOxMRwp-dZ_3SlbU"
+        }, {
+          "placeId": "ChIJfWG4VXoIOxMRnBuiEZrhDz4"
+        }, {
+          "placeId": "ChIJf2UPU3oIOxMRMqHckZEu7UI"
+        }, {
+          "placeId": "ChIJowItM3oIOxMRfTheQw8hQLg"
+        }, {
+          "placeId": "ChIJ445yM3oIOxMRGZhMMBcidR0"
+        }, {
+          "placeId": "ChIJ7xiBM3oIOxMRVeAVRWURPhg"
+        }, {
+          "placeId": "ChIJh8gFRnoIOxMRw2u1p341KYs"
+        }, {
+          "placeId": "ChIJc3_gR3oIOxMRb1sEphWsZHI"
+        }, {
+          "placeId": "ChIJja4ROnoIOxMR1zDtHngSXw4"
+        }, {
+          "placeId": "ChIJQX5Iz3kIOxMR0mSMG4vyaxw"
+        }, {
+          "placeId": "ChIJR0VMy3kIOxMRgLj51lVL4h0"
+        }, {
+          "placeId": "ChIJry1eOHgIOxMR4zh64bpYaLQ"
+        }, {
+          "placeId": "ChIJyTzqangIOxMRz6Z3hpgxqZI"
+        }, {
+          "placeId": "ChIJOXD2bXgIOxMRFZR5ETUhf-M"
+        }, {
+          "placeId": "ChIJe4Bc0NcHOxMR2q_UldtRrgc"
+        }, {
+          "placeId": "ChIJNbWGs9cHOxMRjmPzGuDfYnY"
+        }, {
+          "placeId": "ChIJpVRsrNcHOxMR-fATlpLWaGc"
+        }, {
+          "placeId": "ChIJ9wyCA9cHOxMRScGpZayAvII"
+        }, {
+          "placeId": "ChIJgQDKGNcHOxMRofsolI0U6VU"
+        }, {
+          "placeId": "ChIJGbYDLNcHOxMRhpyWpP2M6nM"
+        }, {
+          "placeId": "ChIJV7jh29AHOxMRnE3Z0V3fIYI"
+        }, {
+          "placeId": "ChIJcU_L4NAHOxMRc8z6aT5W6kk"
+        }, {
+          "placeId": "ChIJOZHiFc8HOxMRTV_bmIS5amQ"
+        }, {
+          "placeId": "ChIJvZZRs8gHOxMRirmnULomn-I"
+        }, {
+          "placeId": "ChIJjWvOncgHOxMRSG6RIvb3vek"
+        }, {
+          "placeId": "ChIJO4ifncgHOxMRALVDOd6u45U"
+        }, {
+          "placeId": "ChIJ-UO6KcYHOxMRA-_kJJ-G5vU"
+        }, {
+          "placeId": "ChIJcUS608cHOxMRXi7WsmOVLCI"
+        }, {
+          "placeId": "ChIJ2wz-z8cHOxMR3QneQn15Zjs"
+        }, {
+          "placeId": "ChIJjTPlcLgHOxMRd8RK6LlD5EA"
+        }, {
+          "placeId": "ChIJjVdwZbgHOxMRABfC8u0p-8s"
+        }, {
+          "placeId": "ChIJ7QzPZbgHOxMRqZ74WLbyytA"
+        }, {
+          "placeId": "ChIJJTbsXrgHOxMR2VXKRTIvAFg"
+        }, {
+          "placeId": "ChIJJYIN_rgHOxMRRfYpQKTdyhw"
+        }, {
+          "placeId": "ChIJg4CwEbkHOxMRr1nOKGTB_a0"
+        }, {
+          "placeId": "ChIJ14I0aLkHOxMRQJqAliG22YE"
+        }, {
+          "placeId": "ChIJszkA4rsHOxMR5LMzwbhW_cM"
+        }, {
+          "placeId": "ChIJHeqO5LsHOxMRlFW8hvDjMqY"
+        }, {
+          "placeId": "ChIJl2U65bsHOxMR-qZKMPAzXIs"
+        }, {
+          "placeId": "ChIJVXgN8LsHOxMRunqKfxO0jkc"
+        }, {
+          "placeId": "ChIJ7RkF9LsHOxMR7CZGlkxX0S8"
+        }, {
+          "placeId": "ChIJaViydrwHOxMR-qFFPTSTsdk"
+        }, {
+          "placeId": "ChIJnejLfbwHOxMR_mvImJ7d914"
+        }],
+        "distanceMeters": 8729.004995109824
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408483188,
+          "lngE7": 142287931,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-24T09:20:40.511Z"
+        }, {
+          "latE7": 408443585,
+          "lngE7": 142254957,
+          "accuracyMeters": 23,
+          "timestamp": "2019-02-24T09:22:41.876Z"
+        }, {
+          "latE7": 408392271,
+          "lngE7": 142007670,
+          "accuracyMeters": 50,
+          "timestamp": "2019-02-24T09:30:48.297Z"
+        }, {
+          "latE7": 408190927,
+          "lngE7": 141786919,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-24T09:42:02.415Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 408999491,
+          "longitudeE7": 142576109,
+          "accuracyMetres": 84
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-24T10:13:32.365Z"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408995061,
+        "longitudeE7": 142587853,
+        "placeId": "ChIJr3JE57wHOxMRdoW5imsXmLU",
+        "address": "Via Comunale Limitone d\u0027Arzano, 43\n80144 Napoli NA\nItalia",
+        "name": "Associazione Sportiva Fondazione Andrea Capasso",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 95.79702
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T10:14:28.148Z",
+        "endTimestamp": "2019-02-24T11:56:51.362Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408991898,
+      "centerLngE7": 142578767,
+      "visitConfidence": 95,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408988366,
+        "longitudeE7": 142586098,
+        "placeId": "ChIJ4SqEYbwHOxMRmPVA_VFwt6I",
+        "address": "Via Comunale Limitone d\u0027Arzano, 4\n80144 Napoli NA\nItalia",
+        "name": "Caserma “Luigi Bichelli”",
+        "locationConfidence": 0.9946495
+      }, {
+        "latitudeE7": 408991593,
+        "longitudeE7": 142583107,
+        "placeId": "ChIJZ_0Hi7wHOxMREDvkO1ZKlEs",
+        "address": "Via Comunale Limitone d\u0027Arzano, 43\n80144 Napoli NA\nItalia",
+        "name": "Via Comunale Limitone d\u0027Arzano, 43",
+        "locationConfidence": 0.9158096
+      }, {
+        "latitudeE7": 408996540,
+        "longitudeE7": 142589504,
+        "placeId": "ChIJ1wZpprwHOxMRWjKUGkLisHc",
+        "address": "Via Limitone di Arzano, 57\n80144 Napoli NA\nItalia",
+        "name": "Addà Regina",
+        "locationConfidence": 0.30854964
+      }, {
+        "latitudeE7": 408969168,
+        "longitudeE7": 142559205,
+        "placeId": "ChIJQx5q5LsHOxMRhALFN2fZrbw",
+        "address": "Via Napoli Capodimonte, 6\n80144 Napoli NA\nItalia",
+        "name": "Napoli Secondigliano Store",
+        "locationConfidence": 0.13807417
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 85,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408992638,
+        "longitudeE7": 142581969,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408955920,
+        "longitudeE7": 142416610,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T11:56:51.362Z",
+        "endTimestamp": "2019-02-24T12:10:08.398Z"
+      },
+      "distance": 2959,
+      "activityType": "MOTORCYCLING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "MOTORCYCLING",
+        "probability": 68.0332724031451
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.511871983587792
+      }, {
+        "activityType": "WALKING",
+        "probability": 2.682026189794799
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408993148,
+          "lngE7": 142582607
+        }, {
+          "latE7": 408927536,
+          "lngE7": 142481517
+        }, {
+          "latE7": 408956031,
+          "lngE7": 142415685
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 2777.9616903177157
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408901511,
+          "lngE7": 142516852,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-24T12:01:30.504Z"
+        }]
+      },
+      "parkingEvent": {
+        "location": {
+          "latitudeE7": 408955920,
+          "longitudeE7": 142416610,
+          "accuracyMetres": 97
+        },
+        "method": "EXITING_VEHICLE_SIGNAL",
+        "locationSource": "UNKNOWN",
+        "timestamp": "2019-02-24T12:10:08.398Z"
+      }
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408955920,
+        "longitudeE7": 142416610,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408945078,
+        "longitudeE7": 142393015,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T12:10:08.398Z",
+        "endTimestamp": "2019-02-24T12:11:11Z"
+      },
+      "distance": 232,
+      "activityType": "WALKING",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 68.0332724031451
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 27.511871983587792
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 2.682026189794799
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408956031,
+          "lngE7": 142415685
+        }, {
+          "latE7": 408960456,
+          "lngE7": 142409000
+        }, {
+          "latE7": 408945350,
+          "lngE7": 142391433
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 619.7825131186598
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408956653,
+          "lngE7": 142416115,
+          "accuracyMeters": 77,
+          "timestamp": "2019-02-24T12:10:54.707Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408929317,
+        "longitudeE7": 142398455,
+        "placeId": "ChIJf2R7tMoHOxMRx0S2EIznlAk",
+        "address": "80145 Napoli NA\nItalia",
+        "name": "Piscinola",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 80.93905
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T12:11:11Z",
+        "endTimestamp": "2019-02-24T12:22:18.944Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 408936425,
+      "centerLngE7": 142391162,
+      "visitConfidence": 93,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408941708,
+        "longitudeE7": 142391545,
+        "placeId": "ChIJRz0IOrUHOxMRwQqzDB_tUZ0",
+        "locationConfidence": 10.711413
+      }, {
+        "latitudeE7": 408933359,
+        "longitudeE7": 142386301,
+        "placeId": "ChIJk_TERDUGOxMR8G3QcI1bzqM",
+        "address": "Via Antonio Labriola, 207\n80145 Napoli NA\nItalia",
+        "name": "Centro MaMu",
+        "locationConfidence": 1.2155693
+      }, {
+        "latitudeE7": 408945625,
+        "longitudeE7": 142385654,
+        "placeId": "ChIJwZW9pEoGOxMRWhvdFMGEbMg",
+        "address": "80145 Napoli NA\nItalia",
+        "name": "Zuccarini - Sciuti",
+        "locationConfidence": 1.0180943
+      }, {
+        "latitudeE7": 408929658,
+        "longitudeE7": 142385052,
+        "placeId": "ChIJyTPTRjUGOxMRXaDewTZr80c",
+        "address": "80145 Napoli NA\nItalia",
+        "name": "Miano A Piscinola",
+        "locationConfidence": 0.8959695
+      }, {
+        "latitudeE7": 408931744,
+        "longitudeE7": 142382457,
+        "placeId": "ChIJsz9BEzUGOxMRmMsg034rNXc",
+        "address": "Via Plebiscito a Piscinola, 38\n80145 Napoli NA\nItalia",
+        "name": "Istituti Superiori - I.P.S.C.T. Vittorio Veneto",
+        "locationConfidence": 0.8557533
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 68,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408930911,
+        "longitudeE7": 142390857,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T12:22:18.944Z",
+        "endTimestamp": "2019-02-24T13:03:33.026Z"
+      },
+      "distance": 6857,
+      "activityType": "IN_SUBWAY",
+      "confidence": "LOW",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 33.59844484604208
+      }, {
+        "activityType": "IN_BUS",
+        "probability": 30.81874234130644
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 21.371400145829714
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 408929317,
+          "longitudeE7": 142398455,
+          "placeId": "ChIJO9Kis8oHOxMRkB9LeMoEpME",
+          "name": "Piscinola"
+        }, {
+          "latitudeE7": 408424948,
+          "longitudeE7": 142489206,
+          "placeId": "ChIJOSg_CVAIOxMRmk2pdbC2dPQ",
+          "address": "80133 Napoli NA\nItalia",
+          "name": "Toledo"
+        }],
+        "name": "L1",
+        "hexRgbColor": "F2D03B",
+        "linePlaceId": "ChIJlxX48XsIOxMRthZd71OpSJI",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408942169,
+          "lngE7": 142342138,
+          "accuracyMeters": 64,
+          "timestamp": "2019-02-24T12:23:50.166Z"
+        }, {
+          "latE7": 408830129,
+          "lngE7": 142286343,
+          "accuracyMeters": 10,
+          "timestamp": "2019-02-24T12:27:10Z"
+        }, {
+          "latE7": 408427744,
+          "lngE7": 142491520,
+          "accuracyMeters": 6,
+          "timestamp": "2019-02-24T12:55:38Z"
+        }, {
+          "latE7": 408437237,
+          "lngE7": 142490674,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-24T12:57:29.512Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 6785.576583393396
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 57.657635
+      },
+      "duration": {
+        "startTimestamp": "2019-02-24T13:03:33.026Z",
+        "endTimestamp": "2019-02-27T18:37:54.148Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408439710,
+      "centerLngE7": 142482104,
+      "visitConfidence": 92,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 11.746659
+      }, {
+        "latitudeE7": 408432856,
+        "longitudeE7": 142494633,
+        "placeId": "ChIJ7wQ2nloIOxMRXHDhFDNdizA",
+        "address": "Via Guglielmo Oberdan, 28\n80134 Napoli NA\nItalia",
+        "name": "Il Melina Pub",
+        "locationConfidence": 7.4905663
+      }, {
+        "latitudeE7": 408424948,
+        "longitudeE7": 142489206,
+        "placeId": "ChIJOSg_CVAIOxMRmk2pdbC2dPQ",
+        "address": "80133 Napoli NA\nItalia",
+        "name": "Toledo",
+        "locationConfidence": 5.7916346
+      }, {
+        "latitudeE7": 408423321,
+        "longitudeE7": 142507820,
+        "placeId": "ChIJHznDBFAIOxMRThPAy784VUk",
+        "address": "Via dei Fiorentini, 61\n80133 Napoli NA\nItalia",
+        "name": "Ecocardiosector - Di Giovanni Severino \u0026 C. S.A.S.",
+        "locationConfidence": 0.2427296
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 51,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408425161,
+        "longitudeE7": 142491030,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408523270,
+        "longitudeE7": 142721238,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-27T18:37:54.148Z",
+        "endTimestamp": "2019-02-27T18:42:22.566Z"
+      },
+      "distance": 2232,
+      "activityType": "IN_SUBWAY",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 73.70790188090731
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 13.892780552962805
+      }, {
+        "activityType": "WALKING",
+        "probability": 11.974880698851614
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 408424948,
+          "longitudeE7": 142489206,
+          "placeId": "ChIJOSg_CVAIOxMRmk2pdbC2dPQ",
+          "address": "80133 Napoli NA\nItalia",
+          "name": "Toledo"
+        }, {
+          "latitudeE7": 408520049,
+          "longitudeE7": 142709413,
+          "placeId": "ChIJfQFXqBcIOxMR4RTN4FDxbUM",
+          "address": "80142 Napoli NA\nItalia",
+          "name": "Piazza Garibaldi"
+        }],
+        "name": "L1",
+        "hexRgbColor": "F2D03B",
+        "linePlaceId": "ChIJlxX48XsIOxMRthZd71OpSJI",
+        "source": "INFERRED"
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408529221,
+        "longitudeE7": 142723433,
+        "placeId": "ChIJ8xuBWRYIOxMRhz3A0vLq9yY",
+        "address": "P.za Giuseppe Garibaldi\n80142 Napoli NA\nItalia",
+        "name": "Napoli Centrale",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 69.534615,
+        "isCurrentLocation": true
+      },
+      "duration": {
+        "startTimestamp": "2019-02-27T18:42:22.566Z",
+        "endTimestamp": "2019-02-27T18:55:01.629Z"
+      },
+      "placeConfidence": "LOW_CONFIDENCE",
+      "centerLatE7": 408523808,
+      "centerLngE7": 142726525,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408504443,
+        "longitudeE7": 142726726,
+        "placeId": "ChIJ1w1d3BcIOxMRFeh6VHizlYE",
+        "address": "corso 80142\nCorso Arnaldo Lucci, 157\n80142 Napoli NA\nItalia",
+        "name": "Cisl",
+        "locationConfidence": 14.566236
+      }, {
+        "latitudeE7": 408520920,
+        "longitudeE7": 142722700,
+        "placeId": "ChIJoe6OrxcIOxMRr-958jVB-Ds",
+        "address": "80142 Napoli NA\nItalia",
+        "name": "Garibaldi",
+        "locationConfidence": 1.6516111,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 408520049,
+        "longitudeE7": 142709413,
+        "placeId": "ChIJfQFXqBcIOxMR4RTN4FDxbUM",
+        "address": "80142 Napoli NA\nItalia",
+        "name": "Piazza Garibaldi",
+        "locationConfidence": 1.6503307
+      }, {
+        "latitudeE7": 408524794,
+        "longitudeE7": 142721534,
+        "placeId": "ChIJx1mBpRcIOxMRsQgC_VsWGXg",
+        "address": "80142 Napoli NA\nItalia",
+        "name": "Napoli Piazza Garibaldi",
+        "locationConfidence": 1.4644902,
+        "isCurrentLocation": true
+      }, {
+        "latitudeE7": 408521636,
+        "longitudeE7": 142727884,
+        "placeId": "ChIJE8qvvhcIOxMRG-WGAA1dEDo",
+        "address": "80142 Napoli NA\nItalia",
+        "name": "Stazione di Napoli Centrale",
+        "locationConfidence": 0.57809865
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408523270,
+          "lngE7": 142721238,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-27T18:42:22.566Z"
+        }, {
+          "latE7": 408525734,
+          "lngE7": 142726357,
+          "accuracyMeters": 23,
+          "timestamp": "2019-02-27T18:53:00.728Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 51.03314183946621
+      },
+      "locationConfidence": 59,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "TRANSITIONAL"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408517891,
+        "longitudeE7": 142724359,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408424110,
+        "longitudeE7": 142488564,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-27T18:55:01.629Z",
+        "endTimestamp": "2019-02-27T19:28:56.120Z"
+      },
+      "distance": 2983,
+      "activityType": "IN_SUBWAY",
+      "confidence": "MEDIUM",
+      "activities": [{
+        "activityType": "IN_SUBWAY",
+        "probability": 63.16167076880069
+      }, {
+        "activityType": "WALKING",
+        "probability": 19.991125501386946
+      }, {
+        "activityType": "IN_TRAIN",
+        "probability": 15.996650510731234
+      }],
+      "transitPath": {
+        "transitStops": [{
+          "latitudeE7": 408520049,
+          "longitudeE7": 142709413,
+          "placeId": "ChIJfQFXqBcIOxMR4RTN4FDxbUM",
+          "address": "80142 Napoli NA\nItalia",
+          "name": "Piazza Garibaldi"
+        }, {
+          "latitudeE7": 408424948,
+          "longitudeE7": 142489206,
+          "placeId": "ChIJOSg_CVAIOxMRmk2pdbC2dPQ",
+          "address": "80133 Napoli NA\nItalia",
+          "name": "Toledo"
+        }],
+        "name": "L1",
+        "hexRgbColor": "F2D03B",
+        "linePlaceId": "ChIJlxX48XsIOxMRthZd71OpSJI",
+        "source": "INFERRED"
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408510822,
+          "lngE7": 142733805,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-27T18:56:32.287Z"
+        }, {
+          "latE7": 408511147,
+          "lngE7": 142750500,
+          "accuracyMeters": 17,
+          "timestamp": "2019-02-27T18:58:30.019Z"
+        }, {
+          "latE7": 408520691,
+          "lngE7": 142724761,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-27T19:02:52.475Z"
+        }, {
+          "latE7": 408527659,
+          "lngE7": 142724314,
+          "accuracyMeters": 15,
+          "timestamp": "2019-02-27T19:04:53.483Z"
+        }, {
+          "latE7": 408519580,
+          "lngE7": 142702505,
+          "accuracyMeters": 16,
+          "timestamp": "2019-02-27T19:11:41.101Z"
+        }],
+        "source": "BACKFILLED",
+        "distanceMeters": 2980.0624993106703
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 53.02515
+      },
+      "duration": {
+        "startTimestamp": "2019-02-27T19:28:56.120Z",
+        "endTimestamp": "2019-02-28T01:52:04.309Z"
+      },
+      "placeConfidence": "MEDIUM_CONFIDENCE",
+      "centerLatE7": 408438478,
+      "centerLngE7": 142483308,
+      "visitConfidence": 73,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 35.731033
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 4.9183965
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.77486116
+      }, {
+        "latitudeE7": 408439510,
+        "longitudeE7": 142482469,
+        "placeId": "ChIJBb5gYloIOxMR4rR4kF3WCXY",
+        "locationConfidence": 0.56492394,
+        "isCurrentLocation": true
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 48,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }, {
+    "activitySegment": {
+      "startLocation": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "endLocation": {
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "sourceInfo": {
+          "deviceTag": -895525288
+        }
+      },
+      "duration": {
+        "startTimestamp": "2019-02-28T01:52:04.309Z",
+        "endTimestamp": "2019-02-28T02:22:04.632Z"
+      },
+      "distance": 34,
+      "activityType": "WALKING",
+      "confidence": "HIGH",
+      "activities": [{
+        "activityType": "WALKING",
+        "probability": 91.16986019566681
+      }, {
+        "activityType": "IN_PASSENGER_VEHICLE",
+        "probability": 5.633799306117792
+      }, {
+        "activityType": "MOTORCYCLING",
+        "probability": 1.2235493804783097
+      }],
+      "waypointPath": {
+        "waypoints": [{
+          "latE7": 408438453,
+          "lngE7": 142481231
+        }, {
+          "latE7": 408438911,
+          "lngE7": 142481279
+        }, {
+          "latE7": 408439407,
+          "lngE7": 142481317
+        }],
+        "source": "INFERRED",
+        "distanceMeters": 10.622251121524213
+      },
+      "simplifiedRawPath": {
+        "points": [{
+          "latE7": 408440229,
+          "lngE7": 142480196,
+          "accuracyMeters": 68,
+          "timestamp": "2019-02-28T01:52:04.309Z"
+        }]
+      }
+    }
+  }, {
+    "placeVisit": {
+      "location": {
+        "latitudeE7": 408438441,
+        "longitudeE7": 142481235,
+        "placeId": "ChIJ-1vWfFoIOxMR00ZHZzhpM28",
+        "semanticType": "TYPE_SEARCHED_ADDRESS",
+        "sourceInfo": {
+          "deviceTag": -895525288
+        },
+        "locationConfidence": 56.327175
+      },
+      "duration": {
+        "startTimestamp": "2019-02-28T02:22:04.632Z",
+        "endTimestamp": "2019-03-01T13:10:07.113Z"
+      },
+      "placeConfidence": "HIGH_CONFIDENCE",
+      "centerLatE7": 408440088,
+      "centerLngE7": 142482429,
+      "visitConfidence": 94,
+      "otherCandidateLocations": [{
+        "latitudeE7": 408439407,
+        "longitudeE7": 142481184,
+        "placeId": "ChIJY32_gloIOxMREdjq1D5z2mg",
+        "address": "Via Armando Diaz, 180/B\n80134 Napoli NA\nItalia",
+        "name": "Via Armando Diaz, 180/B",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 30.634602
+      }, {
+        "latitudeE7": 408440188,
+        "longitudeE7": 142480378,
+        "semanticType": "TYPE_HOME",
+        "locationConfidence": 5.2854943
+      }, {
+        "latitudeE7": 408458382,
+        "longitudeE7": 142478436,
+        "placeId": "ChIJM8DBrFsIOxMRnTY-CZ6lXJE",
+        "address": "Via Pignasecca, 35\n80134 Napoli NA\nItalia",
+        "name": "Panificio Coppola Vincenzo",
+        "locationConfidence": 1.5678611
+      }, {
+        "latitudeE7": 408440711,
+        "longitudeE7": 142486972,
+        "placeId": "ChIJ4fGtjloIOxMRnteeTpKnx6Q",
+        "address": "Piazza Carità, 2\n80134 Napoli NA\nItalia",
+        "name": "Piazza Carità, 2",
+        "semanticType": "TYPE_ALIASED_LOCATION",
+        "locationConfidence": 0.42458913
+      }],
+      "editConfirmationStatus": "NOT_CONFIRMED",
+      "locationConfidence": 50,
+      "placeVisitType": "SINGLE_PLACE",
+      "placeVisitImportance": "MAIN"
+    }
+  }]
+}
