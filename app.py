@@ -5,10 +5,9 @@ from flask import Flask
 app = Flask(__name__)
 
 
-
 @app.route('/')
 def index():
-    df = pd.read_csv("geomood.csv")
+    df = pd.read_csv("https://raw.githubusercontent.com/c0pper/geomood/master/geomood.csv")
 
     m = folium.Map(location=[40.8312592, 14.244409])
 
